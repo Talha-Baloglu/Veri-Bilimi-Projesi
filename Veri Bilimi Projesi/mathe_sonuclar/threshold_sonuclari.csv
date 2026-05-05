@@ -1,0 +1,8 @@
+﻿Model,Best Threshold,Default False Negative,Optimized False Negative
+KNN,0.15000000000000002,47,16
+Random Forest,0.27,39,10
+Extra Trees,0.3,37,13
+SVM,0.32,33,27
+Naive Bayes,0.060000000000000005,41,18
+Karar Agaci,0.15000000000000002,32,20
+YSA (MLP),0.11,40,9

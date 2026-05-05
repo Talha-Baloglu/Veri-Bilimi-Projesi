@@ -1,0 +1,2122 @@
+Student ID;Student Country;Question ID;Type of Answer;Question Level;Topic;Subtopic
+340;Portugal;77;1;Basic;Statistics;Statistics
+697;Portugal;77;1;Basic;Statistics;Statistics
+720;Portugal;77;1;Basic;Statistics;Statistics
+639;Italy;77;0;Basic;Statistics;Statistics
+725;Portugal;78;0;Basic;Statistics;Statistics
+690;Portugal;78;0;Basic;Statistics;Statistics
+638;Italy;78;0;Basic;Statistics;Statistics
+651;Ireland;79;0;Basic;Statistics;Statistics
+638;Italy;79;0;Basic;Statistics;Statistics
+667;Portugal;81;1;Basic;Statistics;Statistics
+638;Italy;81;1;Basic;Statistics;Statistics
+1026;Lithuania;82;0;Basic;Differentiation;Derivatives
+349;Portugal;82;0;Basic;Differentiation;Derivatives
+1564;Portugal;82;0;Basic;Differentiation;Derivatives
+411;Portugal;82;0;Basic;Differentiation;Derivatives
+750;Portugal;83;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+181;Italy;83;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1564;Portugal;84;1;Basic;Real Functions of a single variable;Domain, Image and Graphics
+181;Italy;84;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1565;Portugal;85;0;Basic;Real Functions of a single variable;Limits and Continuity
+552;Portugal;87;0;Advanced;Real Functions of a single variable;Limits and Continuity
+26;Portugal;88;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;88;1;Basic;Linear Algebra;Linear Systems
+411;Portugal;88;0;Basic;Linear Algebra;Linear Systems
+510;Portugal;89;0;Basic;Linear Algebra;Linear Systems
+511;Portugal;89;0;Basic;Linear Algebra;Linear Systems
+411;Portugal;89;1;Basic;Linear Algebra;Linear Systems
+510;Portugal;90;1;Basic;Linear Algebra;Linear Systems
+986;Portugal;90;1;Basic;Linear Algebra;Linear Systems
+72;Portugal;90;0;Basic;Linear Algebra;Linear Systems
+510;Portugal;92;0;Basic;Linear Algebra;Linear Systems
+26;Portugal;92;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;92;1;Basic;Linear Algebra;Linear Systems
+411;Portugal;92;1;Basic;Linear Algebra;Linear Systems
+1049;Lithuania;93;0;Basic;Differentiation;Derivatives
+352;Portugal;93;0;Basic;Differentiation;Derivatives
+165;Portugal;94;1;Basic;Differentiation;Derivatives
+918;Portugal;94;1;Basic;Differentiation;Derivatives
+411;Portugal;94;0;Basic;Differentiation;Derivatives
+178;Italy;94;0;Basic;Differentiation;Derivatives
+349;Portugal;95;0;Basic;Differentiation;Derivatives
+918;Portugal;95;0;Basic;Differentiation;Derivatives
+1049;Lithuania;97;1;Basic;Differentiation;Derivatives
+1564;Portugal;97;0;Basic;Differentiation;Derivatives
+177;Italy;97;1;Basic;Differentiation;Derivatives
+165;Portugal;98;1;Basic;Differentiation;Derivatives
+177;Italy;98;0;Basic;Differentiation;Derivatives
+1049;Lithuania;100;0;Basic;Differentiation;Derivatives
+352;Portugal;100;0;Basic;Differentiation;Derivatives
+197;Portugal;102;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;102;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;104;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+405;Portugal;104;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+202;Lithuania;108;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;108;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;108;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;112;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;112;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+177;Italy;112;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+510;Portugal;113;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+197;Portugal;113;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;113;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;114;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+142;Portugal;114;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+131;Lithuania;117;0;Advanced;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+197;Portugal;118;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;118;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;118;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+405;Portugal;118;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+198;Italy;118;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+510;Portugal;120;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+197;Portugal;120;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;120;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+405;Portugal;120;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+131;Lithuania;121;0;Advanced;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+128;Lithuania;122;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;122;1;Basic;Linear Algebra;Matrices and Determinants
+576;Ireland;123;0;Basic;Linear Algebra;Matrices and Determinants
+986;Portugal;123;1;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;123;0;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;125;0;Basic;Linear Algebra;Matrices and Determinants
+128;Lithuania;125;0;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;125;0;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;126;0;Advanced;Linear Algebra;Matrices and Determinants
+415;Portugal;127;0;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;127;0;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;128;0;Advanced;Linear Algebra;Matrices and Determinants
+415;Portugal;128;0;Advanced;Linear Algebra;Matrices and Determinants
+510;Portugal;129;0;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;130;0;Basic;Linear Algebra;Matrices and Determinants
+1247;Portugal;130;0;Basic;Linear Algebra;Matrices and Determinants
+415;Portugal;131;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;131;1;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;132;0;Advanced;Linear Algebra;Matrices and Determinants
+415;Portugal;132;1;Advanced;Linear Algebra;Matrices and Determinants
+90;Lithuania;133;0;Advanced;Linear Algebra;Matrices and Determinants
+415;Portugal;133;1;Advanced;Linear Algebra;Matrices and Determinants
+511;Portugal;134;1;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;135;0;Basic;Linear Algebra;Matrices and Determinants
+415;Portugal;136;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;136;1;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;136;0;Basic;Linear Algebra;Matrices and Determinants
+128;Lithuania;137;0;Basic;Linear Algebra;Matrices and Determinants
+510;Portugal;137;0;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;137;0;Basic;Linear Algebra;Matrices and Determinants
+128;Lithuania;138;0;Basic;Linear Algebra;Matrices and Determinants
+510;Portugal;138;0;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;138;0;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;139;0;Advanced;Linear Algebra;Matrices and Determinants
+415;Portugal;139;0;Advanced;Linear Algebra;Matrices and Determinants
+415;Portugal;140;1;Advanced;Linear Algebra;Matrices and Determinants
+128;Lithuania;141;1;Basic;Linear Algebra;Matrices and Determinants
+510;Portugal;141;0;Basic;Linear Algebra;Matrices and Determinants
+986;Portugal;141;1;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;141;0;Basic;Linear Algebra;Matrices and Determinants
+349;Portugal;142;0;Basic;Differentiation;Derivatives
+352;Portugal;142;0;Basic;Differentiation;Derivatives
+1564;Portugal;142;0;Basic;Differentiation;Derivatives
+751;Lithuania;142;0;Basic;Differentiation;Derivatives
+177;Italy;143;0;Basic;Differentiation;Derivatives
+178;Italy;143;0;Basic;Differentiation;Derivatives
+349;Portugal;144;1;Basic;Differentiation;Derivatives
+352;Portugal;144;0;Basic;Differentiation;Derivatives
+189;Portugal;144;0;Basic;Differentiation;Derivatives
+411;Portugal;144;0;Basic;Differentiation;Derivatives
+178;Italy;144;0;Basic;Differentiation;Derivatives
+189;Portugal;145;0;Basic;Differentiation;Derivatives
+552;Portugal;146;0;Basic;Differential Equations;Differential Equations
+26;Portugal;146;1;Basic;Differential Equations;Differential Equations
+1026;Lithuania;147;0;Basic;Differentiation;Derivatives
+165;Portugal;147;0;Basic;Differentiation;Derivatives
+349;Portugal;147;0;Basic;Differentiation;Derivatives
+178;Italy;147;0;Basic;Differentiation;Derivatives
+1037;Lithuania;148;0;Basic;Differentiation;Partial Differentiation
+1026;Lithuania;148;0;Basic;Differentiation;Partial Differentiation
+1028;Lithuania;148;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;148;0;Basic;Differentiation;Partial Differentiation
+1075;Portugal;148;0;Basic;Differentiation;Partial Differentiation
+552;Portugal;156;0;Basic;Differential Equations;Differential Equations
+26;Portugal;156;1;Basic;Differential Equations;Differential Equations
+26;Portugal;157;1;Basic;Differential Equations;Differential Equations
+552;Portugal;159;0;Basic;Differential Equations;Differential Equations
+26;Portugal;159;1;Basic;Differential Equations;Differential Equations
+411;Portugal;160;0;Basic;Differential Equations;Differential Equations
+26;Portugal;165;1;Basic;Differential Equations;Differential Equations
+26;Portugal;168;1;Basic;Differential Equations;Differential Equations
+712;Portugal;177;0;Basic;Statistics;Statistics
+697;Portugal;177;1;Basic;Statistics;Statistics
+667;Portugal;177;1;Basic;Statistics;Statistics
+638;Italy;177;0;Basic;Statistics;Statistics
+639;Italy;177;0;Basic;Statistics;Statistics
+697;Portugal;178;1;Basic;Statistics;Statistics
+690;Portugal;179;0;Basic;Statistics;Statistics
+639;Italy;179;0;Basic;Statistics;Statistics
+690;Portugal;180;1;Basic;Statistics;Statistics
+638;Italy;180;0;Basic;Statistics;Statistics
+712;Portugal;181;0;Basic;Statistics;Statistics
+651;Ireland;181;0;Basic;Statistics;Statistics
+720;Portugal;181;1;Basic;Statistics;Statistics
+690;Portugal;181;0;Basic;Statistics;Statistics
+651;Ireland;182;0;Basic;Statistics;Statistics
+697;Portugal;182;1;Basic;Statistics;Statistics
+639;Italy;182;0;Basic;Statistics;Statistics
+667;Portugal;183;1;Basic;Statistics;Statistics
+639;Italy;183;1;Basic;Statistics;Statistics
+667;Portugal;184;1;Basic;Statistics;Statistics
+712;Portugal;185;0;Basic;Statistics;Statistics
+651;Ireland;185;1;Basic;Statistics;Statistics
+725;Portugal;185;0;Basic;Statistics;Statistics
+651;Ireland;186;0;Basic;Statistics;Statistics
+720;Portugal;186;1;Basic;Statistics;Statistics
+690;Portugal;186;0;Basic;Statistics;Statistics
+651;Ireland;187;0;Basic;Statistics;Statistics
+725;Portugal;187;0;Basic;Statistics;Statistics
+638;Italy;187;0;Basic;Statistics;Statistics
+725;Portugal;188;0;Basic;Statistics;Statistics
+725;Portugal;189;0;Basic;Statistics;Statistics
+725;Portugal;190;0;Basic;Statistics;Statistics
+697;Portugal;190;1;Basic;Statistics;Statistics
+667;Portugal;190;1;Basic;Statistics;Statistics
+712;Portugal;191;0;Basic;Statistics;Statistics
+725;Portugal;191;0;Basic;Statistics;Statistics
+690;Portugal;191;0;Basic;Statistics;Statistics
+639;Italy;191;0;Basic;Statistics;Statistics
+918;Portugal;192;0;Basic;Integration;Integration Techniques
+411;Portugal;192;0;Basic;Integration;Integration Techniques
+720;Portugal;193;1;Basic;Statistics;Statistics
+690;Portugal;193;0;Basic;Statistics;Statistics
+638;Italy;193;0;Basic;Statistics;Statistics
+697;Portugal;201;0;Basic;Statistics;Statistics
+712;Portugal;202;0;Basic;Statistics;Statistics
+651;Ireland;202;0;Basic;Statistics;Statistics
+720;Portugal;202;1;Basic;Statistics;Statistics
+667;Portugal;202;1;Basic;Statistics;Statistics
+639;Italy;202;0;Basic;Statistics;Statistics
+712;Portugal;204;1;Basic;Statistics;Statistics
+720;Portugal;204;0;Basic;Statistics;Statistics
+667;Portugal;204;1;Basic;Statistics;Statistics
+697;Portugal;211;1;Basic;Statistics;Statistics
+720;Portugal;211;1;Basic;Statistics;Statistics
+26;Portugal;215;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;215;1;Basic;Linear Algebra;Linear Systems
+26;Portugal;216;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;216;0;Basic;Linear Algebra;Linear Systems
+510;Portugal;217;0;Basic;Linear Algebra;Linear Systems
+26;Portugal;217;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;218;1;Basic;Linear Algebra;Linear Systems
+510;Portugal;219;0;Basic;Linear Algebra;Linear Systems
+510;Portugal;220;0;Basic;Linear Algebra;Linear Systems
+26;Portugal;220;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;220;1;Basic;Linear Algebra;Linear Systems
+510;Portugal;221;0;Basic;Linear Algebra;Linear Systems
+26;Portugal;224;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;224;1;Basic;Linear Algebra;Linear Systems
+510;Portugal;225;0;Basic;Linear Algebra;Linear Systems
+511;Portugal;225;1;Basic;Linear Algebra;Linear Systems
+411;Portugal;225;0;Basic;Linear Algebra;Linear Systems
+510;Portugal;227;0;Basic;Linear Algebra;Linear Systems
+511;Portugal;227;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;229;1;Basic;Linear Algebra;Linear Systems
+411;Portugal;229;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;230;1;Basic;Linear Algebra;Linear Systems
+26;Portugal;231;0;Basic;Linear Algebra;Linear Systems
+576;Ireland;234;0;Basic;Linear Algebra;Linear Systems
+511;Portugal;234;1;Basic;Linear Algebra;Linear Systems
+576;Ireland;239;0;Basic;Linear Algebra;Linear Systems
+511;Portugal;239;1;Basic;Linear Algebra;Linear Systems
+411;Portugal;241;0;Basic;Linear Algebra;Linear Systems
+411;Portugal;243;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;244;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;245;1;Basic;Linear Algebra;Linear Systems
+349;Portugal;250;1;Basic;Differentiation;Derivatives
+189;Portugal;250;0;Basic;Differentiation;Derivatives
+1564;Portugal;250;0;Basic;Differentiation;Derivatives
+177;Italy;250;0;Basic;Differentiation;Derivatives
+178;Italy;250;0;Basic;Differentiation;Derivatives
+349;Portugal;252;0;Basic;Differentiation;Derivatives
+352;Portugal;252;0;Basic;Differentiation;Derivatives
+411;Portugal;252;0;Basic;Differentiation;Derivatives
+177;Italy;252;0;Basic;Differentiation;Derivatives
+1049;Lithuania;253;0;Basic;Differentiation;Derivatives
+177;Italy;254;0;Basic;Differentiation;Derivatives
+411;Portugal;255;1;Basic;Differentiation;Derivatives
+178;Italy;255;0;Basic;Differentiation;Derivatives
+1029;Lithuania;256;0;Basic;Differentiation;Partial Differentiation
+1056;Lithuania;256;0;Basic;Differentiation;Partial Differentiation
+1037;Lithuania;256;0;Basic;Differentiation;Partial Differentiation
+1024;Lithuania;256;0;Basic;Differentiation;Partial Differentiation
+1028;Lithuania;257;0;Basic;Differentiation;Partial Differentiation
+1032;Lithuania;257;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;257;1;Basic;Differentiation;Partial Differentiation
+1075;Portugal;257;0;Basic;Differentiation;Partial Differentiation
+918;Portugal;257;0;Basic;Differentiation;Partial Differentiation
+1047;Lithuania;258;0;Basic;Differentiation;Partial Differentiation
+1075;Portugal;258;0;Basic;Differentiation;Partial Differentiation
+1047;Lithuania;259;1;Basic;Differentiation;Partial Differentiation
+918;Portugal;259;1;Basic;Differentiation;Partial Differentiation
+1029;Lithuania;260;0;Basic;Differentiation;Partial Differentiation
+1037;Lithuania;260;0;Basic;Differentiation;Partial Differentiation
+1024;Lithuania;260;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;260;0;Basic;Differentiation;Partial Differentiation
+918;Portugal;260;0;Basic;Differentiation;Partial Differentiation
+1050;Lithuania;261;0;Basic;Differentiation;Partial Differentiation
+1024;Lithuania;261;0;Basic;Differentiation;Partial Differentiation
+1047;Lithuania;261;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;261;0;Basic;Differentiation;Partial Differentiation
+751;Lithuania;261;0;Basic;Differentiation;Partial Differentiation
+1029;Lithuania;262;0;Basic;Differentiation;Partial Differentiation
+1032;Lithuania;262;0;Basic;Differentiation;Partial Differentiation
+1043;Lithuania;262;0;Basic;Differentiation;Partial Differentiation
+1050;Lithuania;263;0;Basic;Differentiation;Partial Differentiation
+1026;Lithuania;263;0;Basic;Differentiation;Partial Differentiation
+1039;Lithuania;264;0;Basic;Differentiation;Partial Differentiation
+1029;Lithuania;264;0;Basic;Differentiation;Partial Differentiation
+1037;Lithuania;264;0;Basic;Differentiation;Partial Differentiation
+1034;Lithuania;264;0;Basic;Differentiation;Partial Differentiation
+1043;Lithuania;264;0;Basic;Differentiation;Partial Differentiation
+1032;Lithuania;266;0;Basic;Differentiation;Partial Differentiation
+1045;Lithuania;266;1;Basic;Differentiation;Partial Differentiation
+918;Portugal;266;0;Basic;Differentiation;Partial Differentiation
+1029;Lithuania;267;0;Basic;Differentiation;Partial Differentiation
+1024;Lithuania;267;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;267;0;Basic;Differentiation;Partial Differentiation
+1050;Lithuania;268;0;Basic;Differentiation;Partial Differentiation
+1039;Lithuania;268;0;Basic;Differentiation;Partial Differentiation
+1056;Lithuania;268;0;Basic;Differentiation;Partial Differentiation
+1037;Lithuania;268;0;Basic;Differentiation;Partial Differentiation
+1026;Lithuania;268;0;Basic;Differentiation;Partial Differentiation
+1028;Lithuania;268;0;Basic;Differentiation;Partial Differentiation
+1045;Lithuania;268;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;268;0;Basic;Differentiation;Partial Differentiation
+918;Portugal;268;0;Basic;Differentiation;Partial Differentiation
+1026;Lithuania;269;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;269;1;Basic;Differentiation;Partial Differentiation
+1043;Lithuania;270;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;270;0;Basic;Differentiation;Partial Differentiation
+349;Portugal;271;0;Basic;Differentiation;Derivatives
+1564;Portugal;271;0;Basic;Differentiation;Derivatives
+411;Portugal;271;0;Basic;Differentiation;Derivatives
+349;Portugal;272;0;Basic;Differentiation;Derivatives
+352;Portugal;272;1;Basic;Differentiation;Derivatives
+189;Portugal;273;0;Basic;Differentiation;Derivatives
+918;Portugal;273;1;Basic;Differentiation;Derivatives
+349;Portugal;274;0;Basic;Differentiation;Derivatives
+189;Portugal;274;0;Basic;Differentiation;Derivatives
+1049;Lithuania;275;0;Basic;Differentiation;Derivatives
+411;Portugal;275;0;Basic;Differentiation;Derivatives
+751;Lithuania;275;0;Basic;Differentiation;Derivatives
+178;Italy;275;0;Basic;Differentiation;Derivatives
+1143;Portugal;277;1;Basic;Linear Algebra;Linear Transformations
+1091;Lithuania;277;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;277;0;Basic;Linear Algebra;Linear Transformations
+1182;Portugal;277;0;Basic;Linear Algebra;Linear Transformations
+1157;Portugal;277;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;277;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;277;0;Basic;Linear Algebra;Linear Transformations
+1279;Portugal;277;1;Basic;Linear Algebra;Linear Transformations
+1281;Portugal;277;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;277;0;Basic;Linear Algebra;Linear Transformations
+986;Portugal;277;1;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;277;1;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;277;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;277;0;Basic;Linear Algebra;Linear Transformations
+1291;Italy;277;1;Basic;Linear Algebra;Linear Transformations
+840;Italy;277;1;Basic;Linear Algebra;Linear Transformations
+1339;Portugal;278;1;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;278;0;Advanced;Linear Algebra;Linear Transformations
+1338;Portugal;278;0;Advanced;Linear Algebra;Linear Transformations
+986;Portugal;278;0;Advanced;Linear Algebra;Linear Transformations
+1146;Portugal;278;0;Advanced;Linear Algebra;Linear Transformations
+1277;Portugal;278;1;Advanced;Linear Algebra;Linear Transformations
+1420;Portugal;278;1;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;278;1;Advanced;Linear Algebra;Linear Transformations
+1077;Portugal;278;0;Advanced;Linear Algebra;Linear Transformations
+1334;Portugal;278;0;Advanced;Linear Algebra;Linear Transformations
+1428;Portugal;278;1;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;278;1;Advanced;Linear Algebra;Linear Transformations
+840;Italy;278;1;Advanced;Linear Algebra;Linear Transformations
+1022;Lithuania;279;0;Basic;Optimization;Linear Optimization
+1022;Lithuania;281;0;Basic;Optimization;Linear Optimization
+1525;Portugal;281;0;Basic;Optimization;Linear Optimization
+1339;Portugal;287;1;Basic;Linear Algebra;Linear Transformations
+956;Portugal;287;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;287;1;Basic;Linear Algebra;Linear Transformations
+1158;Portugal;287;1;Basic;Linear Algebra;Linear Transformations
+1157;Portugal;287;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;287;1;Basic;Linear Algebra;Linear Transformations
+1140;Portugal;287;1;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;287;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;287;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;287;0;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;287;0;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;287;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;287;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;287;0;Basic;Linear Algebra;Linear Transformations
+1291;Italy;287;0;Basic;Linear Algebra;Linear Transformations
+986;Portugal;288;1;Advanced;Linear Algebra;Linear Transformations
+1277;Portugal;288;1;Advanced;Linear Algebra;Linear Transformations
+1126;Portugal;288;0;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;288;1;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;288;1;Advanced;Linear Algebra;Linear Transformations
+1077;Portugal;288;0;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;288;1;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;288;1;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;288;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;288;1;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;289;0;Advanced;Linear Algebra;Linear Transformations
+1338;Portugal;289;0;Advanced;Linear Algebra;Linear Transformations
+1150;Portugal;289;0;Advanced;Linear Algebra;Linear Transformations
+1146;Portugal;289;0;Advanced;Linear Algebra;Linear Transformations
+1126;Portugal;289;1;Advanced;Linear Algebra;Linear Transformations
+1420;Portugal;289;1;Advanced;Linear Algebra;Linear Transformations
+1353;Portugal;289;1;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;289;1;Advanced;Linear Algebra;Linear Transformations
+1291;Italy;289;0;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;289;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;289;1;Advanced;Linear Algebra;Linear Transformations
+1339;Portugal;290;1;Advanced;Linear Algebra;Linear Transformations
+1091;Lithuania;290;0;Advanced;Linear Algebra;Linear Transformations
+1338;Portugal;290;0;Advanced;Linear Algebra;Linear Transformations
+1150;Portugal;290;0;Advanced;Linear Algebra;Linear Transformations
+1277;Portugal;290;1;Advanced;Linear Algebra;Linear Transformations
+1353;Portugal;290;1;Advanced;Linear Algebra;Linear Transformations
+1077;Portugal;290;0;Advanced;Linear Algebra;Linear Transformations
+1334;Portugal;290;0;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;290;1;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;290;1;Advanced;Linear Algebra;Linear Transformations
+1428;Portugal;290;1;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;290;1;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;290;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;290;1;Advanced;Linear Algebra;Linear Transformations
+956;Portugal;291;0;Basic;Linear Algebra;Linear Transformations
+972;Portugal;291;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;291;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;291;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;291;0;Basic;Linear Algebra;Linear Transformations
+1077;Portugal;291;1;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;291;1;Basic;Linear Algebra;Linear Transformations
+1428;Portugal;291;1;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;291;1;Basic;Linear Algebra;Linear Transformations
+1324;Italy;291;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;291;0;Basic;Linear Algebra;Linear Transformations
+1091;Lithuania;292;0;Advanced;Linear Algebra;Linear Transformations
+986;Portugal;292;1;Advanced;Linear Algebra;Linear Transformations
+1277;Portugal;292;1;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;292;1;Advanced;Linear Algebra;Linear Transformations
+1077;Portugal;292;0;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;292;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;292;1;Advanced;Linear Algebra;Linear Transformations
+1291;Italy;292;0;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;292;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;292;1;Advanced;Linear Algebra;Linear Transformations
+1091;Lithuania;293;1;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;293;0;Advanced;Linear Algebra;Linear Transformations
+1338;Portugal;293;0;Advanced;Linear Algebra;Linear Transformations
+1150;Portugal;293;0;Advanced;Linear Algebra;Linear Transformations
+1146;Portugal;293;0;Advanced;Linear Algebra;Linear Transformations
+1126;Portugal;293;1;Advanced;Linear Algebra;Linear Transformations
+1420;Portugal;293;0;Advanced;Linear Algebra;Linear Transformations
+1353;Portugal;293;0;Advanced;Linear Algebra;Linear Transformations
+1077;Portugal;293;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;293;1;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;293;0;Advanced;Linear Algebra;Linear Transformations
+340;Portugal;295;0;Basic;Probability ;Probability 
+1525;Portugal;295;0;Basic;Probability ;Probability 
+956;Portugal;296;0;Basic;Linear Algebra;Linear Transformations
+1143;Portugal;296;1;Basic;Linear Algebra;Linear Transformations
+1091;Lithuania;296;1;Basic;Linear Algebra;Linear Transformations
+510;Portugal;296;0;Basic;Linear Algebra;Linear Transformations
+1182;Portugal;296;1;Basic;Linear Algebra;Linear Transformations
+1253;Portugal;296;0;Basic;Linear Algebra;Linear Transformations
+1334;Portugal;296;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;296;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;296;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;296;1;Basic;Linear Algebra;Linear Transformations
+1279;Portugal;296;1;Basic;Linear Algebra;Linear Transformations
+1281;Portugal;296;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;296;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;296;0;Basic;Linear Algebra;Linear Transformations
+548;Portugal;298;0;Basic;Probability ;Probability 
+340;Portugal;299;0;Basic;Probability ;Probability 
+26;Portugal;299;0;Basic;Probability ;Probability 
+340;Portugal;300;0;Basic;Probability ;Probability 
+548;Portugal;300;1;Basic;Probability ;Probability 
+340;Portugal;301;0;Basic;Probability ;Probability 
+548;Portugal;301;0;Basic;Probability ;Probability 
+548;Portugal;302;0;Basic;Probability ;Probability 
+26;Portugal;302;1;Basic;Probability ;Probability 
+340;Portugal;303;0;Basic;Probability ;Probability 
+26;Portugal;303;1;Basic;Probability ;Probability 
+340;Portugal;304;0;Basic;Probability ;Probability 
+1525;Portugal;304;0;Basic;Probability ;Probability 
+548;Portugal;304;0;Basic;Probability ;Probability 
+1339;Portugal;306;0;Advanced;Linear Algebra;Linear Transformations
+1091;Lithuania;306;1;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;306;0;Advanced;Linear Algebra;Linear Transformations
+1146;Portugal;306;0;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;306;1;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;306;1;Advanced;Linear Algebra;Linear Transformations
+1077;Portugal;306;0;Advanced;Linear Algebra;Linear Transformations
+1428;Portugal;306;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;306;1;Advanced;Linear Algebra;Linear Transformations
+1286;Italy;306;0;Advanced;Linear Algebra;Linear Transformations
+1291;Italy;306;0;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;306;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;306;0;Advanced;Linear Algebra;Linear Transformations
+26;Portugal;308;1;Basic;Probability ;Probability 
+1561;Portugal;309;0;Basic;Integration;Integration Techniques
+411;Portugal;309;0;Basic;Integration;Integration Techniques
+411;Portugal;311;0;Basic;Integration;Integration Techniques
+1143;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+750;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+1269;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+1140;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+966;Portugal;313;0;Basic;Linear Algebra;Vector Spaces
+1130;Portugal;313;1;Basic;Linear Algebra;Vector Spaces
+411;Portugal;313;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;313;0;Basic;Linear Algebra;Vector Spaces
+1324;Italy;313;0;Basic;Linear Algebra;Vector Spaces
+1308;Italy;313;1;Basic;Linear Algebra;Vector Spaces
+1291;Italy;313;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;313;0;Basic;Linear Algebra;Vector Spaces
+1283;Italy;313;0;Basic;Linear Algebra;Vector Spaces
+1565;Portugal;315;0;Advanced;Integration;Integration Techniques
+1525;Portugal;316;0;Basic;Probability ;Probability 
+1143;Portugal;317;0;Basic;Linear Algebra;Vector Spaces
+457;Portugal;317;1;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;317;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;317;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;317;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;317;0;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;317;0;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;317;0;Basic;Linear Algebra;Vector Spaces
+986;Portugal;317;1;Basic;Linear Algebra;Vector Spaces
+411;Portugal;317;1;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;317;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;317;0;Basic;Linear Algebra;Vector Spaces
+1324;Italy;317;1;Basic;Linear Algebra;Vector Spaces
+1291;Italy;317;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;317;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;317;1;Basic;Linear Algebra;Vector Spaces
+1525;Portugal;318;0;Advanced;Probability ;Probability 
+972;Portugal;319;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;319;1;Basic;Linear Algebra;Linear Transformations
+1140;Portugal;319;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;319;0;Basic;Linear Algebra;Linear Transformations
+1077;Portugal;319;1;Basic;Linear Algebra;Linear Transformations
+1284;Italy;319;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;319;1;Basic;Linear Algebra;Linear Transformations
+340;Portugal;320;0;Advanced;Probability ;Probability 
+1339;Portugal;321;1;Basic;Linear Algebra;Linear Transformations
+956;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+972;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1253;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1334;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1140;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1281;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1077;Portugal;321;0;Basic;Linear Algebra;Linear Transformations
+1149;Portugal;321;1;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;321;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;321;0;Basic;Linear Algebra;Linear Transformations
+1291;Italy;321;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;321;0;Basic;Linear Algebra;Linear Transformations
+1339;Portugal;323;1;Basic;Linear Algebra;Linear Transformations
+956;Portugal;323;0;Basic;Linear Algebra;Linear Transformations
+1143;Portugal;323;1;Basic;Linear Algebra;Linear Transformations
+510;Portugal;323;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;323;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;323;1;Basic;Linear Algebra;Linear Transformations
+1253;Portugal;323;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;323;0;Basic;Linear Algebra;Linear Transformations
+1334;Portugal;323;1;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;323;1;Basic;Linear Algebra;Linear Transformations
+1140;Portugal;323;0;Basic;Linear Algebra;Linear Transformations
+1279;Portugal;323;1;Basic;Linear Algebra;Linear Transformations
+1281;Portugal;323;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;323;0;Basic;Linear Algebra;Linear Transformations
+1149;Portugal;323;1;Basic;Linear Algebra;Linear Transformations
+958;Lithuania;323;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;323;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;323;0;Basic;Linear Algebra;Linear Transformations
+72;Portugal;323;0;Basic;Linear Algebra;Linear Transformations
+1339;Portugal;324;1;Basic;Linear Algebra;Linear Transformations
+956;Portugal;324;0;Basic;Linear Algebra;Linear Transformations
+1143;Portugal;324;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;324;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;324;1;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;324;1;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;324;1;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;324;0;Basic;Linear Algebra;Linear Transformations
+1279;Portugal;324;1;Basic;Linear Algebra;Linear Transformations
+966;Portugal;324;0;Basic;Linear Algebra;Linear Transformations
+1077;Portugal;324;1;Basic;Linear Algebra;Linear Transformations
+986;Portugal;324;0;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;324;1;Basic;Linear Algebra;Linear Transformations
+1428;Portugal;324;1;Basic;Linear Algebra;Linear Transformations
+958;Lithuania;324;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;324;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;324;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;324;1;Basic;Linear Algebra;Linear Transformations
+956;Portugal;325;0;Basic;Linear Algebra;Linear Transformations
+1091;Lithuania;325;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;325;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;325;1;Basic;Linear Algebra;Linear Transformations
+1157;Portugal;325;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;325;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;325;0;Basic;Linear Algebra;Linear Transformations
+986;Portugal;325;1;Basic;Linear Algebra;Linear Transformations
+1149;Portugal;325;1;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;325;0;Basic;Linear Algebra;Linear Transformations
+1428;Portugal;325;1;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;325;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;325;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;325;1;Basic;Linear Algebra;Linear Transformations
+90;Lithuania;326;0;Basic;Complex Numbers;Complex Numbers
+457;Portugal;326;1;Basic;Complex Numbers;Complex Numbers
+769;Portugal;326;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;326;0;Basic;Complex Numbers;Complex Numbers
+419;Portugal;326;0;Basic;Complex Numbers;Complex Numbers
+421;Portugal;326;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;326;0;Basic;Complex Numbers;Complex Numbers
+90;Lithuania;327;1;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;327;0;Basic;Complex Numbers;Complex Numbers
+769;Portugal;327;0;Basic;Complex Numbers;Complex Numbers
+421;Portugal;327;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;327;0;Basic;Complex Numbers;Complex Numbers
+90;Lithuania;328;0;Basic;Complex Numbers;Complex Numbers
+457;Portugal;328;0;Basic;Complex Numbers;Complex Numbers
+415;Portugal;328;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;328;0;Basic;Complex Numbers;Complex Numbers
+419;Portugal;328;0;Basic;Complex Numbers;Complex Numbers
+551;Lithuania;328;0;Basic;Complex Numbers;Complex Numbers
+421;Portugal;328;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;328;0;Basic;Complex Numbers;Complex Numbers
+90;Lithuania;329;0;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;329;0;Basic;Complex Numbers;Complex Numbers
+415;Portugal;329;0;Basic;Complex Numbers;Complex Numbers
+419;Portugal;329;1;Basic;Complex Numbers;Complex Numbers
+551;Lithuania;329;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;329;0;Basic;Complex Numbers;Complex Numbers
+457;Portugal;330;1;Basic;Complex Numbers;Complex Numbers
+411;Portugal;330;0;Basic;Complex Numbers;Complex Numbers
+419;Portugal;330;0;Basic;Complex Numbers;Complex Numbers
+90;Lithuania;331;0;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;331;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;331;0;Basic;Complex Numbers;Complex Numbers
+419;Portugal;331;0;Basic;Complex Numbers;Complex Numbers
+421;Portugal;331;1;Basic;Complex Numbers;Complex Numbers
+457;Portugal;332;1;Basic;Complex Numbers;Complex Numbers
+769;Portugal;332;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;332;0;Basic;Complex Numbers;Complex Numbers
+551;Lithuania;332;0;Basic;Complex Numbers;Complex Numbers
+466;Portugal;333;0;Advanced;Complex Numbers;Complex Numbers
+397;Portugal;333;0;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;333;1;Advanced;Complex Numbers;Complex Numbers
+128;Lithuania;334;0;Basic;Complex Numbers;Complex Numbers
+769;Portugal;334;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;334;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;334;0;Basic;Complex Numbers;Complex Numbers
+576;Ireland;335;0;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;335;0;Basic;Complex Numbers;Complex Numbers
+69;Portugal;335;0;Basic;Complex Numbers;Complex Numbers
+415;Portugal;335;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;335;0;Basic;Complex Numbers;Complex Numbers
+551;Lithuania;335;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;335;0;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;336;0;Basic;Complex Numbers;Complex Numbers
+457;Portugal;336;0;Basic;Complex Numbers;Complex Numbers
+415;Portugal;336;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;336;0;Basic;Complex Numbers;Complex Numbers
+551;Lithuania;336;0;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;337;0;Basic;Complex Numbers;Complex Numbers
+457;Portugal;337;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;337;0;Basic;Complex Numbers;Complex Numbers
+90;Lithuania;338;0;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;338;0;Basic;Complex Numbers;Complex Numbers
+415;Portugal;338;0;Basic;Complex Numbers;Complex Numbers
+769;Portugal;338;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;338;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;338;0;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;339;0;Basic;Complex Numbers;Complex Numbers
+415;Portugal;339;0;Basic;Complex Numbers;Complex Numbers
+769;Portugal;339;0;Basic;Complex Numbers;Complex Numbers
+411;Portugal;339;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;339;0;Basic;Complex Numbers;Complex Numbers
+466;Portugal;340;0;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;340;1;Advanced;Complex Numbers;Complex Numbers
+1247;Portugal;340;0;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;340;1;Advanced;Complex Numbers;Complex Numbers
+551;Lithuania;340;0;Advanced;Complex Numbers;Complex Numbers
+128;Lithuania;341;0;Basic;Complex Numbers;Complex Numbers
+457;Portugal;341;1;Basic;Complex Numbers;Complex Numbers
+411;Portugal;341;0;Basic;Complex Numbers;Complex Numbers
+421;Portugal;341;0;Basic;Complex Numbers;Complex Numbers
+90;Lithuania;342;0;Basic;Complex Numbers;Complex Numbers
+128;Lithuania;342;1;Basic;Complex Numbers;Complex Numbers
+411;Portugal;342;0;Basic;Complex Numbers;Complex Numbers
+551;Lithuania;342;0;Basic;Complex Numbers;Complex Numbers
+72;Portugal;342;0;Basic;Complex Numbers;Complex Numbers
+466;Portugal;345;0;Advanced;Complex Numbers;Complex Numbers
+1247;Portugal;345;1;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;345;0;Advanced;Complex Numbers;Complex Numbers
+466;Portugal;346;0;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;346;1;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;346;1;Advanced;Complex Numbers;Complex Numbers
+466;Portugal;347;1;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;347;1;Advanced;Complex Numbers;Complex Numbers
+1247;Portugal;347;0;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;347;1;Advanced;Complex Numbers;Complex Numbers
+551;Lithuania;347;0;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;348;1;Advanced;Complex Numbers;Complex Numbers
+1247;Portugal;349;1;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;349;1;Advanced;Complex Numbers;Complex Numbers
+551;Lithuania;349;1;Advanced;Complex Numbers;Complex Numbers
+466;Portugal;350;0;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;350;1;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;351;1;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;351;0;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;352;1;Advanced;Complex Numbers;Complex Numbers
+551;Lithuania;352;0;Advanced;Complex Numbers;Complex Numbers
+90;Lithuania;353;0;Basic;Complex Numbers;Complex Numbers
+69;Portugal;353;1;Basic;Complex Numbers;Complex Numbers
+769;Portugal;353;0;Basic;Complex Numbers;Complex Numbers
+419;Portugal;353;0;Basic;Complex Numbers;Complex Numbers
+551;Lithuania;353;0;Basic;Complex Numbers;Complex Numbers
+421;Portugal;353;0;Basic;Complex Numbers;Complex Numbers
+90;Lithuania;354;1;Advanced;Complex Numbers;Complex Numbers
+466;Portugal;354;0;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;354;1;Advanced;Complex Numbers;Complex Numbers
+397;Portugal;354;1;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;354;1;Advanced;Complex Numbers;Complex Numbers
+90;Lithuania;355;0;Advanced;Complex Numbers;Complex Numbers
+466;Portugal;355;0;Advanced;Complex Numbers;Complex Numbers
+1247;Portugal;355;0;Advanced;Complex Numbers;Complex Numbers
+397;Portugal;355;0;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;355;1;Advanced;Complex Numbers;Complex Numbers
+551;Lithuania;355;0;Advanced;Complex Numbers;Complex Numbers
+1247;Portugal;356;0;Advanced;Complex Numbers;Complex Numbers
+397;Portugal;356;0;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;357;1;Advanced;Complex Numbers;Complex Numbers
+1247;Portugal;357;0;Advanced;Complex Numbers;Complex Numbers
+397;Portugal;357;0;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;357;1;Advanced;Complex Numbers;Complex Numbers
+466;Portugal;358;1;Advanced;Complex Numbers;Complex Numbers
+397;Portugal;358;0;Advanced;Complex Numbers;Complex Numbers
+551;Lithuania;358;0;Advanced;Complex Numbers;Complex Numbers
+457;Portugal;359;1;Advanced;Complex Numbers;Complex Numbers
+470;Portugal;359;1;Advanced;Complex Numbers;Complex Numbers
+551;Lithuania;359;1;Advanced;Complex Numbers;Complex Numbers
+90;Lithuania;360;0;Basic;Complex Numbers;Complex Numbers
+415;Portugal;360;0;Basic;Complex Numbers;Complex Numbers
+419;Portugal;360;0;Basic;Complex Numbers;Complex Numbers
+421;Portugal;360;0;Basic;Complex Numbers;Complex Numbers
+576;Ireland;363;0;Basic;Fundamental Mathematics;Elementary Geometry
+189;Portugal;363;0;Basic;Fundamental Mathematics;Elementary Geometry
+511;Portugal;364;1;Basic;Fundamental Mathematics;Elementary Geometry
+198;Italy;364;0;Basic;Fundamental Mathematics;Elementary Geometry
+131;Lithuania;365;1;Advanced;Graph Theory;Graph Theory
+198;Italy;367;0;Basic;Fundamental Mathematics;Elementary Geometry
+510;Portugal;368;0;Basic;Fundamental Mathematics;Elementary Geometry
+198;Italy;368;0;Basic;Fundamental Mathematics;Elementary Geometry
+189;Portugal;369;0;Basic;Fundamental Mathematics;Elementary Geometry
+189;Portugal;371;0;Basic;Fundamental Mathematics;Elementary Geometry
+131;Lithuania;373;1;Advanced;Graph Theory;Graph Theory
+956;Portugal;375;0;Basic;Linear Algebra;Linear Transformations
+972;Portugal;375;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;375;1;Basic;Linear Algebra;Linear Transformations
+1158;Portugal;375;1;Basic;Linear Algebra;Linear Transformations
+1182;Portugal;375;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;375;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;375;0;Basic;Linear Algebra;Linear Transformations
+1334;Portugal;375;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;375;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;375;0;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;375;1;Basic;Linear Algebra;Linear Transformations
+958;Lithuania;375;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;375;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;375;1;Basic;Linear Algebra;Linear Transformations
+956;Portugal;376;0;Basic;Linear Algebra;Linear Transformations
+972;Portugal;376;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;376;1;Basic;Linear Algebra;Linear Transformations
+1158;Portugal;376;1;Basic;Linear Algebra;Linear Transformations
+1182;Portugal;376;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;376;0;Basic;Linear Algebra;Linear Transformations
+1279;Portugal;376;1;Basic;Linear Algebra;Linear Transformations
+966;Portugal;376;0;Basic;Linear Algebra;Linear Transformations
+986;Portugal;376;1;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;376;0;Basic;Linear Algebra;Linear Transformations
+1428;Portugal;376;1;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;376;0;Basic;Linear Algebra;Linear Transformations
+958;Lithuania;376;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;376;0;Basic;Linear Algebra;Linear Transformations
+1291;Italy;376;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;376;0;Basic;Linear Algebra;Linear Transformations
+1339;Portugal;377;1;Basic;Linear Algebra;Linear Transformations
+1143;Portugal;377;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;377;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;377;1;Basic;Linear Algebra;Linear Transformations
+1182;Portugal;377;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;377;0;Basic;Linear Algebra;Linear Transformations
+1334;Portugal;377;1;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;377;0;Basic;Linear Algebra;Linear Transformations
+1279;Portugal;377;1;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;377;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;377;0;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;377;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;377;1;Basic;Linear Algebra;Linear Transformations
+1339;Portugal;378;1;Basic;Linear Algebra;Linear Transformations
+1143;Portugal;378;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;378;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;378;1;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;378;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;378;0;Basic;Linear Algebra;Linear Transformations
+986;Portugal;378;0;Basic;Linear Algebra;Linear Transformations
+1149;Portugal;378;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;378;0;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;378;1;Basic;Linear Algebra;Linear Transformations
+958;Lithuania;378;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;378;0;Basic;Linear Algebra;Linear Transformations
+1291;Italy;378;1;Basic;Linear Algebra;Linear Transformations
+840;Italy;378;1;Basic;Linear Algebra;Linear Transformations
+576;Ireland;379;1;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;379;1;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;379;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;379;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;379;0;Basic;Linear Algebra;Linear Transformations
+1281;Portugal;379;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;379;0;Basic;Linear Algebra;Linear Transformations
+1428;Portugal;379;1;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;379;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;379;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;379;0;Basic;Linear Algebra;Linear Transformations
+1291;Italy;379;0;Basic;Linear Algebra;Linear Transformations
+72;Portugal;379;0;Basic;Linear Algebra;Linear Transformations
+1150;Portugal;380;0;Advanced;Linear Algebra;Linear Transformations
+986;Portugal;380;1;Advanced;Linear Algebra;Linear Transformations
+1277;Portugal;380;1;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;380;1;Advanced;Linear Algebra;Linear Transformations
+1353;Portugal;380;1;Advanced;Linear Algebra;Linear Transformations
+1334;Portugal;380;0;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;380;1;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;380;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;380;1;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;380;0;Advanced;Linear Algebra;Linear Transformations
+1339;Portugal;381;1;Advanced;Linear Algebra;Linear Transformations
+1150;Portugal;381;0;Advanced;Linear Algebra;Linear Transformations
+986;Portugal;381;1;Advanced;Linear Algebra;Linear Transformations
+1277;Portugal;381;1;Advanced;Linear Algebra;Linear Transformations
+1126;Portugal;381;1;Advanced;Linear Algebra;Linear Transformations
+1353;Portugal;381;1;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;381;1;Advanced;Linear Algebra;Linear Transformations
+1428;Portugal;381;1;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;381;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;381;1;Advanced;Linear Algebra;Linear Transformations
+840;Italy;381;1;Advanced;Linear Algebra;Linear Transformations
+1339;Portugal;382;1;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;382;0;Advanced;Linear Algebra;Linear Transformations
+1420;Portugal;382;1;Advanced;Linear Algebra;Linear Transformations
+1077;Portugal;382;0;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;382;1;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;382;0;Advanced;Linear Algebra;Linear Transformations
+1428;Portugal;382;1;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;382;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;382;1;Advanced;Linear Algebra;Linear Transformations
+840;Italy;382;1;Advanced;Linear Algebra;Linear Transformations
+1339;Portugal;383;0;Basic;Linear Algebra;Linear Transformations
+1143;Portugal;383;1;Basic;Linear Algebra;Linear Transformations
+1091;Lithuania;383;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;383;0;Basic;Linear Algebra;Linear Transformations
+1157;Portugal;383;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;383;1;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;383;1;Basic;Linear Algebra;Linear Transformations
+1279;Portugal;383;1;Basic;Linear Algebra;Linear Transformations
+966;Portugal;383;0;Basic;Linear Algebra;Linear Transformations
+1077;Portugal;383;1;Basic;Linear Algebra;Linear Transformations
+1149;Portugal;383;1;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;383;0;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;383;0;Basic;Linear Algebra;Linear Transformations
+1428;Portugal;383;1;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;383;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;383;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;383;1;Basic;Linear Algebra;Linear Transformations
+1143;Portugal;384;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;384;0;Basic;Linear Algebra;Linear Transformations
+1158;Portugal;384;0;Basic;Linear Algebra;Linear Transformations
+1157;Portugal;384;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;384;0;Basic;Linear Algebra;Linear Transformations
+1149;Portugal;384;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;384;1;Basic;Linear Algebra;Linear Transformations
+966;Portugal;384;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;384;0;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;384;0;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;384;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;384;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;384;1;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;385;0;Advanced;Linear Algebra;Linear Transformations
+1420;Portugal;385;1;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;385;1;Advanced;Linear Algebra;Linear Transformations
+1334;Portugal;385;0;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;385;1;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;385;0;Advanced;Linear Algebra;Linear Transformations
+1291;Italy;385;0;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;385;0;Advanced;Linear Algebra;Linear Transformations
+165;Portugal;391;0;Basic;Integration;Integration Techniques
+918;Portugal;391;0;Basic;Integration;Integration Techniques
+1565;Portugal;391;0;Basic;Integration;Integration Techniques
+411;Portugal;391;0;Basic;Integration;Integration Techniques
+165;Portugal;393;0;Basic;Integration;Integration Techniques
+411;Portugal;393;0;Basic;Integration;Integration Techniques
+918;Portugal;394;0;Basic;Integration;Integration Techniques
+1565;Portugal;394;0;Basic;Integration;Integration Techniques
+918;Portugal;397;0;Basic;Integration;Integration Techniques
+918;Portugal;399;0;Basic;Integration;Integration Techniques
+1564;Portugal;399;0;Basic;Integration;Integration Techniques
+918;Portugal;401;0;Basic;Integration;Integration Techniques
+1565;Portugal;401;0;Basic;Integration;Integration Techniques
+1564;Portugal;401;0;Basic;Integration;Integration Techniques
+411;Portugal;401;0;Basic;Integration;Integration Techniques
+1561;Portugal;403;0;Advanced;Integration;Integration Techniques
+1564;Portugal;406;0;Basic;Integration;Integration Techniques
+411;Portugal;406;0;Basic;Integration;Integration Techniques
+1561;Portugal;408;0;Advanced;Integration;Integration Techniques
+1561;Portugal;410;0;Advanced;Integration;Integration Techniques
+1561;Portugal;411;1;Advanced;Integration;Integration Techniques
+1043;Lithuania;412;0;Basic;Integration;Integration Techniques
+1565;Portugal;412;0;Basic;Integration;Integration Techniques
+1564;Portugal;412;0;Basic;Integration;Integration Techniques
+411;Portugal;412;0;Basic;Integration;Integration Techniques
+1565;Portugal;413;0;Basic;Integration;Integration Techniques
+1564;Portugal;413;0;Basic;Integration;Integration Techniques
+411;Portugal;413;0;Basic;Integration;Integration Techniques
+1564;Portugal;414;0;Basic;Integration;Integration Techniques
+411;Portugal;414;0;Basic;Integration;Integration Techniques
+1339;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+956;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+750;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+1219;Portugal;415;1;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+1411;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+1332;Portugal;415;1;Basic;Linear Algebra;Vector Spaces
+966;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+1130;Portugal;415;1;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;415;0;Basic;Linear Algebra;Vector Spaces
+1324;Italy;415;1;Basic;Linear Algebra;Vector Spaces
+1290;Italy;415;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;415;0;Basic;Linear Algebra;Vector Spaces
+956;Portugal;416;0;Basic;Linear Algebra;Vector Spaces
+750;Portugal;416;0;Basic;Linear Algebra;Vector Spaces
+1158;Portugal;416;1;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;416;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;416;0;Basic;Linear Algebra;Vector Spaces
+1219;Portugal;416;1;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;416;0;Basic;Linear Algebra;Vector Spaces
+1334;Portugal;416;1;Basic;Linear Algebra;Vector Spaces
+1353;Portugal;416;1;Basic;Linear Algebra;Vector Spaces
+1332;Portugal;416;1;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;416;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;416;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;416;1;Basic;Linear Algebra;Vector Spaces
+840;Italy;416;1;Basic;Linear Algebra;Vector Spaces
+1143;Portugal;417;1;Basic;Linear Algebra;Vector Spaces
+510;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1269;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1282;Portugal;417;1;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1279;Portugal;417;1;Basic;Linear Algebra;Vector Spaces
+1334;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+966;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;417;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;417;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;417;1;Basic;Linear Algebra;Vector Spaces
+1339;Portugal;418;1;Advanced;Linear Algebra;Vector Spaces
+974;Portugal;418;0;Advanced;Linear Algebra;Vector Spaces
+1332;Portugal;418;1;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;418;0;Advanced;Linear Algebra;Vector Spaces
+1284;Italy;418;0;Advanced;Linear Algebra;Vector Spaces
+1286;Italy;418;1;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;418;0;Advanced;Linear Algebra;Vector Spaces
+1269;Portugal;419;0;Advanced;Linear Algebra;Vector Spaces
+986;Portugal;419;1;Advanced;Linear Algebra;Vector Spaces
+1077;Portugal;419;0;Advanced;Linear Algebra;Vector Spaces
+1275;Lithuania;419;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;419;0;Advanced;Linear Algebra;Vector Spaces
+1286;Italy;419;0;Advanced;Linear Algebra;Vector Spaces
+1284;Italy;419;1;Advanced;Linear Algebra;Vector Spaces
+974;Portugal;420;1;Advanced;Linear Algebra;Vector Spaces
+982;Portugal;420;1;Advanced;Linear Algebra;Vector Spaces
+986;Portugal;420;0;Advanced;Linear Algebra;Vector Spaces
+1077;Portugal;420;0;Advanced;Linear Algebra;Vector Spaces
+899;Lithuania;420;0;Advanced;Linear Algebra;Vector Spaces
+1286;Italy;420;0;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;420;0;Advanced;Linear Algebra;Vector Spaces
+1023;Lithuania;421;0;Basic;Linear Algebra;Vector Spaces
+1312;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+457;Portugal;421;1;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+1219;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+1334;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+1363;Portugal;421;0;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;421;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;421;0;Basic;Linear Algebra;Vector Spaces
+1324;Italy;421;0;Basic;Linear Algebra;Vector Spaces
+1284;Italy;421;0;Basic;Linear Algebra;Vector Spaces
+1290;Italy;421;1;Basic;Linear Algebra;Vector Spaces
+956;Portugal;422;0;Basic;Linear Algebra;Vector Spaces
+1312;Portugal;422;1;Basic;Linear Algebra;Vector Spaces
+750;Portugal;422;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;422;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;422;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;422;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;422;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;422;1;Basic;Linear Algebra;Vector Spaces
+982;Portugal;422;1;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;422;0;Basic;Linear Algebra;Vector Spaces
+986;Portugal;422;1;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;422;0;Basic;Linear Algebra;Vector Spaces
+958;Lithuania;422;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;422;0;Basic;Linear Algebra;Vector Spaces
+1283;Italy;422;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;422;1;Basic;Linear Algebra;Vector Spaces
+1143;Portugal;423;1;Basic;Linear Algebra;Vector Spaces
+1158;Portugal;423;1;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;423;0;Basic;Linear Algebra;Vector Spaces
+1219;Portugal;423;0;Basic;Linear Algebra;Vector Spaces
+986;Portugal;423;1;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;423;0;Basic;Linear Algebra;Vector Spaces
+1411;Portugal;423;0;Basic;Linear Algebra;Vector Spaces
+966;Portugal;423;0;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;423;0;Basic;Linear Algebra;Vector Spaces
+1275;Lithuania;423;0;Basic;Linear Algebra;Vector Spaces
+958;Lithuania;423;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;423;0;Basic;Linear Algebra;Vector Spaces
+1291;Italy;423;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;423;0;Basic;Linear Algebra;Vector Spaces
+1283;Italy;423;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;423;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;423;1;Basic;Linear Algebra;Vector Spaces
+972;Portugal;424;0;Advanced;Linear Algebra;Vector Spaces
+1269;Portugal;424;0;Advanced;Linear Algebra;Vector Spaces
+982;Portugal;424;1;Advanced;Linear Algebra;Vector Spaces
+974;Portugal;424;1;Advanced;Linear Algebra;Vector Spaces
+1281;Portugal;424;1;Advanced;Linear Algebra;Vector Spaces
+1332;Portugal;424;1;Advanced;Linear Algebra;Vector Spaces
+1275;Lithuania;424;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;424;0;Advanced;Linear Algebra;Vector Spaces
+1286;Italy;424;1;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;424;0;Advanced;Linear Algebra;Vector Spaces
+956;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+1269;Portugal;425;1;Basic;Linear Algebra;Vector Spaces
+1158;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;425;1;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+1253;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+1219;Portugal;425;1;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+1277;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+966;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;425;0;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;425;0;Basic;Linear Algebra;Vector Spaces
+958;Lithuania;425;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;425;0;Basic;Linear Algebra;Vector Spaces
+1291;Italy;425;0;Basic;Linear Algebra;Vector Spaces
+1290;Italy;425;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;425;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;425;0;Basic;Linear Algebra;Vector Spaces
+956;Portugal;426;0;Basic;Linear Algebra;Vector Spaces
+1143;Portugal;426;1;Basic;Linear Algebra;Vector Spaces
+750;Portugal;426;1;Basic;Linear Algebra;Vector Spaces
+972;Portugal;426;0;Basic;Linear Algebra;Vector Spaces
+457;Portugal;426;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;426;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;426;1;Basic;Linear Algebra;Vector Spaces
+1282;Portugal;426;1;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;426;0;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;426;0;Basic;Linear Algebra;Vector Spaces
+1334;Portugal;426;0;Basic;Linear Algebra;Vector Spaces
+1332;Portugal;426;1;Basic;Linear Algebra;Vector Spaces
+966;Portugal;426;0;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;426;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;426;0;Basic;Linear Algebra;Vector Spaces
+1308;Italy;426;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;426;0;Basic;Linear Algebra;Vector Spaces
+1341;Portugal;426;1;Basic;Linear Algebra;Vector Spaces
+1339;Portugal;427;1;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;427;0;Advanced;Linear Algebra;Vector Spaces
+1269;Portugal;427;0;Advanced;Linear Algebra;Vector Spaces
+974;Portugal;427;1;Advanced;Linear Algebra;Vector Spaces
+1363;Portugal;427;1;Advanced;Linear Algebra;Vector Spaces
+899;Lithuania;427;0;Advanced;Linear Algebra;Vector Spaces
+1275;Lithuania;427;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;427;0;Advanced;Linear Algebra;Vector Spaces
+1284;Italy;427;0;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;427;0;Advanced;Linear Algebra;Vector Spaces
+1312;Portugal;428;1;Basic;Linear Algebra;Vector Spaces
+750;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1282;Portugal;428;1;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1334;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;428;1;Basic;Linear Algebra;Vector Spaces
+1363;Portugal;428;0;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;428;0;Basic;Linear Algebra;Vector Spaces
+958;Lithuania;428;0;Basic;Linear Algebra;Vector Spaces
+1324;Italy;428;0;Basic;Linear Algebra;Vector Spaces
+1308;Italy;428;0;Basic;Linear Algebra;Vector Spaces
+1286;Italy;428;0;Basic;Linear Algebra;Vector Spaces
+1283;Italy;428;1;Basic;Linear Algebra;Vector Spaces
+1143;Portugal;429;1;Basic;Linear Algebra;Vector Spaces
+1312;Portugal;429;1;Basic;Linear Algebra;Vector Spaces
+510;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+457;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+1269;Portugal;429;1;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+1253;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;429;1;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+986;Portugal;429;1;Basic;Linear Algebra;Vector Spaces
+1332;Portugal;429;1;Basic;Linear Algebra;Vector Spaces
+966;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+1130;Portugal;429;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;429;0;Basic;Linear Algebra;Vector Spaces
+1284;Italy;429;0;Basic;Linear Algebra;Vector Spaces
+1290;Italy;429;1;Basic;Linear Algebra;Vector Spaces
+1291;Italy;429;0;Basic;Linear Algebra;Vector Spaces
+1283;Italy;429;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;429;0;Basic;Linear Algebra;Vector Spaces
+1341;Portugal;429;1;Basic;Linear Algebra;Vector Spaces
+1339;Portugal;430;1;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;430;0;Advanced;Linear Algebra;Vector Spaces
+982;Portugal;430;1;Advanced;Linear Algebra;Vector Spaces
+1077;Portugal;430;0;Advanced;Linear Algebra;Vector Spaces
+1332;Portugal;430;1;Advanced;Linear Algebra;Vector Spaces
+899;Lithuania;430;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;430;0;Advanced;Linear Algebra;Vector Spaces
+1284;Italy;430;0;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;430;0;Advanced;Linear Algebra;Vector Spaces
+956;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+986;Portugal;431;1;Basic;Linear Algebra;Vector Spaces
+966;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+411;Portugal;431;0;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;431;1;Basic;Linear Algebra;Vector Spaces
+1324;Italy;431;0;Basic;Linear Algebra;Vector Spaces
+1284;Italy;431;1;Basic;Linear Algebra;Vector Spaces
+1291;Italy;431;0;Basic;Linear Algebra;Vector Spaces
+1290;Italy;431;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;431;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;431;1;Basic;Linear Algebra;Vector Spaces
+1341;Portugal;431;1;Basic;Linear Algebra;Vector Spaces
+1269;Portugal;432;0;Advanced;Linear Algebra;Vector Spaces
+982;Portugal;432;1;Advanced;Linear Algebra;Vector Spaces
+986;Portugal;432;1;Advanced;Linear Algebra;Vector Spaces
+1332;Portugal;432;1;Advanced;Linear Algebra;Vector Spaces
+899;Lithuania;432;0;Advanced;Linear Algebra;Vector Spaces
+1275;Lithuania;432;0;Advanced;Linear Algebra;Vector Spaces
+1286;Italy;432;0;Advanced;Linear Algebra;Vector Spaces
+1284;Italy;432;1;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;432;0;Advanced;Linear Algebra;Vector Spaces
+1023;Lithuania;433;1;Basic;Linear Algebra;Vector Spaces
+750;Portugal;433;1;Basic;Linear Algebra;Vector Spaces
+457;Portugal;433;1;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;433;0;Basic;Linear Algebra;Vector Spaces
+1158;Portugal;433;1;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;433;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;433;0;Basic;Linear Algebra;Vector Spaces
+1282;Portugal;433;1;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;433;0;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;433;0;Basic;Linear Algebra;Vector Spaces
+1363;Portugal;433;0;Basic;Linear Algebra;Vector Spaces
+1332;Portugal;433;1;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;433;0;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;433;0;Basic;Linear Algebra;Vector Spaces
+1275;Lithuania;433;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;433;0;Basic;Linear Algebra;Vector Spaces
+1290;Italy;433;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;433;0;Basic;Linear Algebra;Vector Spaces
+1291;Italy;433;0;Basic;Linear Algebra;Vector Spaces
+1284;Italy;433;1;Basic;Linear Algebra;Vector Spaces
+72;Portugal;433;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;433;1;Basic;Linear Algebra;Vector Spaces
+1023;Lithuania;434;1;Basic;Linear Algebra;Vector Spaces
+1312;Portugal;434;1;Basic;Linear Algebra;Vector Spaces
+750;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1334;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1363;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;434;0;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;434;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;434;1;Basic;Linear Algebra;Vector Spaces
+1324;Italy;434;1;Basic;Linear Algebra;Vector Spaces
+1291;Italy;434;0;Basic;Linear Algebra;Vector Spaces
+1286;Italy;434;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;434;1;Basic;Linear Algebra;Vector Spaces
+1341;Portugal;434;1;Basic;Linear Algebra;Vector Spaces
+956;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+974;Portugal;435;1;Basic;Linear Algebra;Vector Spaces
+1332;Portugal;435;1;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+1363;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+1411;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+966;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;435;0;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;435;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;435;0;Basic;Linear Algebra;Vector Spaces
+1286;Italy;435;0;Basic;Linear Algebra;Vector Spaces
+1291;Italy;435;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;435;0;Basic;Linear Algebra;Vector Spaces
+956;Portugal;436;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;436;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;436;0;Basic;Linear Algebra;Vector Spaces
+1363;Portugal;436;0;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;436;0;Basic;Linear Algebra;Vector Spaces
+1275;Lithuania;436;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;436;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;436;1;Basic;Linear Algebra;Vector Spaces
+1341;Portugal;436;1;Basic;Linear Algebra;Vector Spaces
+956;Portugal;437;0;Basic;Linear Algebra;Linear Transformations
+1143;Portugal;437;1;Basic;Linear Algebra;Linear Transformations
+1091;Lithuania;437;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;437;0;Basic;Linear Algebra;Linear Transformations
+1182;Portugal;437;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;437;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;437;0;Basic;Linear Algebra;Linear Transformations
+1281;Portugal;437;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;437;0;Basic;Linear Algebra;Linear Transformations
+1149;Portugal;437;1;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;437;1;Basic;Linear Algebra;Linear Transformations
+1428;Portugal;437;1;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;437;0;Basic;Linear Algebra;Linear Transformations
+958;Lithuania;437;0;Basic;Linear Algebra;Linear Transformations
+956;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1023;Lithuania;438;1;Basic;Linear Algebra;Vector Spaces
+972;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+457;Portugal;438;1;Basic;Linear Algebra;Vector Spaces
+1269;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1158;Portugal;438;1;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1219;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1334;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1332;Portugal;438;1;Basic;Linear Algebra;Vector Spaces
+966;Portugal;438;0;Basic;Linear Algebra;Vector Spaces
+1130;Portugal;438;1;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;438;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;438;0;Basic;Linear Algebra;Vector Spaces
+1324;Italy;438;0;Basic;Linear Algebra;Vector Spaces
+1308;Italy;438;0;Basic;Linear Algebra;Vector Spaces
+1286;Italy;438;0;Basic;Linear Algebra;Vector Spaces
+1339;Portugal;439;1;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;439;0;Advanced;Linear Algebra;Vector Spaces
+1269;Portugal;439;0;Advanced;Linear Algebra;Vector Spaces
+974;Portugal;439;1;Advanced;Linear Algebra;Vector Spaces
+982;Portugal;439;0;Advanced;Linear Algebra;Vector Spaces
+1077;Portugal;439;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;439;0;Advanced;Linear Algebra;Vector Spaces
+1284;Italy;439;1;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;439;0;Advanced;Linear Algebra;Vector Spaces
+1339;Portugal;440;1;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;440;0;Advanced;Linear Algebra;Vector Spaces
+982;Portugal;440;1;Advanced;Linear Algebra;Vector Spaces
+986;Portugal;440;1;Advanced;Linear Algebra;Vector Spaces
+1332;Portugal;440;0;Advanced;Linear Algebra;Vector Spaces
+899;Lithuania;440;0;Advanced;Linear Algebra;Vector Spaces
+1275;Lithuania;440;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;440;0;Advanced;Linear Algebra;Vector Spaces
+1286;Italy;440;1;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;440;0;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;441;0;Advanced;Linear Algebra;Vector Spaces
+1269;Portugal;441;0;Advanced;Linear Algebra;Vector Spaces
+974;Portugal;441;1;Advanced;Linear Algebra;Vector Spaces
+982;Portugal;441;0;Advanced;Linear Algebra;Vector Spaces
+986;Portugal;441;0;Advanced;Linear Algebra;Vector Spaces
+899;Lithuania;441;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;441;0;Advanced;Linear Algebra;Vector Spaces
+1284;Italy;441;0;Advanced;Linear Algebra;Vector Spaces
+1091;Lithuania;443;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;443;0;Basic;Linear Algebra;Linear Transformations
+1158;Portugal;443;1;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;443;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;443;0;Basic;Linear Algebra;Linear Transformations
+1334;Portugal;443;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;443;0;Basic;Linear Algebra;Linear Transformations
+1140;Portugal;443;0;Basic;Linear Algebra;Linear Transformations
+1077;Portugal;443;0;Basic;Linear Algebra;Linear Transformations
+986;Portugal;443;1;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;443;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;443;0;Basic;Linear Algebra;Linear Transformations
+1284;Italy;443;0;Basic;Linear Algebra;Linear Transformations
+1291;Italy;443;1;Basic;Linear Algebra;Linear Transformations
+956;Portugal;444;0;Basic;Linear Algebra;Linear Transformations
+1091;Lithuania;444;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;444;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;444;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;444;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;444;0;Basic;Linear Algebra;Linear Transformations
+986;Portugal;444;1;Basic;Linear Algebra;Linear Transformations
+1149;Portugal;444;1;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;444;0;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;444;1;Basic;Linear Algebra;Linear Transformations
+1284;Italy;444;0;Basic;Linear Algebra;Linear Transformations
+1339;Portugal;446;1;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;446;0;Advanced;Linear Algebra;Vector Spaces
+1332;Portugal;446;0;Advanced;Linear Algebra;Vector Spaces
+1275;Lithuania;446;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;446;0;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;446;0;Advanced;Linear Algebra;Vector Spaces
+840;Italy;446;0;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;447;0;Advanced;Linear Algebra;Vector Spaces
+1077;Portugal;447;0;Advanced;Linear Algebra;Vector Spaces
+899;Lithuania;447;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;447;0;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;447;0;Advanced;Linear Algebra;Vector Spaces
+1339;Portugal;448;1;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;448;0;Advanced;Linear Algebra;Vector Spaces
+1077;Portugal;448;0;Advanced;Linear Algebra;Vector Spaces
+1332;Portugal;448;0;Advanced;Linear Algebra;Vector Spaces
+1275;Lithuania;448;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;448;0;Advanced;Linear Algebra;Vector Spaces
+972;Portugal;449;0;Advanced;Linear Algebra;Vector Spaces
+1269;Portugal;449;0;Advanced;Linear Algebra;Vector Spaces
+1077;Portugal;449;0;Advanced;Linear Algebra;Vector Spaces
+955;Lithuania;449;0;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;449;0;Advanced;Linear Algebra;Vector Spaces
+457;Portugal;450;1;Basic;Linear Algebra;Vector Spaces
+1269;Portugal;450;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;450;0;Basic;Linear Algebra;Vector Spaces
+1253;Portugal;450;0;Basic;Linear Algebra;Vector Spaces
+1282;Portugal;450;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;450;1;Basic;Linear Algebra;Vector Spaces
+986;Portugal;450;0;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;450;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;450;0;Basic;Linear Algebra;Vector Spaces
+1291;Italy;450;0;Basic;Linear Algebra;Vector Spaces
+1286;Italy;450;0;Basic;Linear Algebra;Vector Spaces
+1284;Italy;450;0;Basic;Linear Algebra;Vector Spaces
+1283;Italy;450;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;450;0;Basic;Linear Algebra;Vector Spaces
+1341;Portugal;450;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;451;0;Advanced;Linear Algebra;Vector Spaces
+1286;Italy;451;1;Advanced;Linear Algebra;Vector Spaces
+72;Portugal;451;0;Advanced;Linear Algebra;Vector Spaces
+956;Portugal;452;0;Basic;Linear Algebra;Vector Spaces
+1312;Portugal;452;1;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;452;0;Basic;Linear Algebra;Vector Spaces
+1253;Portugal;452;0;Basic;Linear Algebra;Vector Spaces
+1282;Portugal;452;1;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;452;0;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;452;0;Basic;Linear Algebra;Vector Spaces
+1332;Portugal;452;1;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;452;1;Basic;Linear Algebra;Vector Spaces
+1284;Italy;452;0;Basic;Linear Algebra;Vector Spaces
+1291;Italy;452;0;Basic;Linear Algebra;Vector Spaces
+1290;Italy;452;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;452;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;452;0;Basic;Linear Algebra;Vector Spaces
+1339;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+956;Portugal;453;1;Basic;Linear Algebra;Vector Spaces
+1023;Lithuania;453;1;Basic;Linear Algebra;Vector Spaces
+972;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+1269;Portugal;453;1;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+986;Portugal;453;1;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+1130;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+1275;Lithuania;453;0;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;453;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;453;0;Basic;Linear Algebra;Vector Spaces
+1286;Italy;453;0;Basic;Linear Algebra;Vector Spaces
+1283;Italy;453;0;Basic;Linear Algebra;Vector Spaces
+1291;Italy;453;0;Basic;Linear Algebra;Vector Spaces
+1284;Italy;453;0;Basic;Linear Algebra;Vector Spaces
+72;Portugal;453;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;453;0;Basic;Linear Algebra;Vector Spaces
+956;Portugal;454;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;454;0;Basic;Linear Algebra;Vector Spaces
+1182;Portugal;454;0;Basic;Linear Algebra;Vector Spaces
+1158;Portugal;454;1;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;454;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;454;0;Basic;Linear Algebra;Vector Spaces
+1282;Portugal;454;1;Basic;Linear Algebra;Vector Spaces
+1219;Portugal;454;1;Basic;Linear Algebra;Vector Spaces
+1334;Portugal;454;1;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;454;0;Basic;Linear Algebra;Vector Spaces
+966;Portugal;454;0;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;454;0;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;454;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;454;0;Basic;Linear Algebra;Vector Spaces
+1308;Italy;454;0;Basic;Linear Algebra;Vector Spaces
+1286;Italy;454;0;Basic;Linear Algebra;Vector Spaces
+1283;Italy;454;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;454;0;Basic;Linear Algebra;Vector Spaces
+972;Portugal;455;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;455;0;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;455;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;455;1;Basic;Linear Algebra;Vector Spaces
+1363;Portugal;455;0;Basic;Linear Algebra;Vector Spaces
+986;Portugal;455;1;Basic;Linear Algebra;Vector Spaces
+1130;Portugal;455;1;Basic;Linear Algebra;Vector Spaces
+1275;Lithuania;455;0;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;455;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;455;0;Basic;Linear Algebra;Vector Spaces
+1308;Italy;455;0;Basic;Linear Algebra;Vector Spaces
+1284;Italy;455;1;Basic;Linear Algebra;Vector Spaces
+956;Portugal;457;0;Basic;Linear Algebra;Vector Spaces
+750;Portugal;457;1;Basic;Linear Algebra;Vector Spaces
+972;Portugal;457;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;457;0;Basic;Linear Algebra;Vector Spaces
+1158;Portugal;457;1;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;457;0;Basic;Linear Algebra;Vector Spaces
+1253;Portugal;457;0;Basic;Linear Algebra;Vector Spaces
+1146;Portugal;457;1;Basic;Linear Algebra;Vector Spaces
+1148;Portugal;457;0;Basic;Linear Algebra;Vector Spaces
+1109;Portugal;457;1;Basic;Linear Algebra;Vector Spaces
+1281;Portugal;457;0;Basic;Linear Algebra;Vector Spaces
+966;Portugal;457;0;Basic;Linear Algebra;Vector Spaces
+1275;Lithuania;457;0;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;457;0;Basic;Linear Algebra;Vector Spaces
+1308;Italy;457;1;Basic;Linear Algebra;Vector Spaces
+1286;Italy;457;0;Basic;Linear Algebra;Vector Spaces
+1284;Italy;457;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;457;1;Basic;Linear Algebra;Vector Spaces
+511;Portugal;458;1;Basic;Fundamental Mathematics;Elementary Geometry
+1339;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+956;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1143;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1312;Portugal;459;1;Basic;Linear Algebra;Vector Spaces
+972;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1150;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1244;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1157;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1219;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1147;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1077;Portugal;459;0;Basic;Linear Algebra;Vector Spaces
+1130;Portugal;459;1;Basic;Linear Algebra;Vector Spaces
+899;Lithuania;459;0;Basic;Linear Algebra;Vector Spaces
+1275;Lithuania;459;0;Basic;Linear Algebra;Vector Spaces
+1196;Slovenia;459;1;Basic;Linear Algebra;Vector Spaces
+955;Lithuania;459;0;Basic;Linear Algebra;Vector Spaces
+1291;Italy;459;0;Basic;Linear Algebra;Vector Spaces
+840;Italy;459;1;Basic;Linear Algebra;Vector Spaces
+1341;Portugal;459;1;Basic;Linear Algebra;Vector Spaces
+198;Italy;460;0;Basic;Fundamental Mathematics;Elementary Geometry
+198;Italy;461;0;Basic;Fundamental Mathematics;Elementary Geometry
+510;Portugal;463;1;Basic;Fundamental Mathematics;Elementary Geometry
+511;Portugal;464;0;Basic;Fundamental Mathematics;Elementary Geometry
+131;Lithuania;469;1;Advanced;Graph Theory;Graph Theory
+131;Lithuania;471;1;Advanced;Graph Theory;Graph Theory
+131;Lithuania;479;1;Advanced;Graph Theory;Graph Theory
+548;Portugal;486;0;Basic;Probability ;Probability 
+26;Portugal;487;1;Basic;Probability ;Probability 
+340;Portugal;488;0;Basic;Probability ;Probability 
+26;Portugal;489;0;Basic;Probability ;Probability 
+1525;Portugal;491;0;Advanced;Probability ;Probability 
+548;Portugal;492;0;Basic;Probability ;Probability 
+198;Italy;495;0;Basic;Fundamental Mathematics;Elementary Geometry
+510;Portugal;497;0;Basic;Fundamental Mathematics;Elementary Geometry
+198;Italy;497;1;Basic;Fundamental Mathematics;Elementary Geometry
+165;Portugal;502;0;Basic;Fundamental Mathematics;Elementary Geometry
+189;Portugal;512;1;Basic;Fundamental Mathematics;Elementary Geometry
+511;Portugal;513;0;Basic;Fundamental Mathematics;Elementary Geometry
+198;Italy;518;0;Basic;Fundamental Mathematics;Elementary Geometry
+189;Portugal;519;0;Basic;Fundamental Mathematics;Elementary Geometry
+576;Ireland;521;0;Basic;Fundamental Mathematics;Elementary Geometry
+510;Portugal;521;1;Basic;Fundamental Mathematics;Elementary Geometry
+198;Italy;521;1;Basic;Fundamental Mathematics;Elementary Geometry
+165;Portugal;524;0;Basic;Fundamental Mathematics;Elementary Geometry
+511;Portugal;524;1;Basic;Fundamental Mathematics;Elementary Geometry
+198;Italy;524;0;Basic;Fundamental Mathematics;Elementary Geometry
+165;Portugal;530;1;Basic;Integration;Double Integration
+165;Portugal;542;0;Basic;Integration;Double Integration
+576;Ireland;546;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;546;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;546;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;547;1;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;547;1;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;547;1;Basic;Analytic Geometry;Analytic Geometry
+776;Portugal;547;0;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;548;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;548;1;Basic;Analytic Geometry;Analytic Geometry
+72;Portugal;548;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;549;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;549;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;549;0;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;550;0;Advanced;Analytic Geometry;Analytic Geometry
+776;Portugal;550;1;Advanced;Analytic Geometry;Analytic Geometry
+751;Lithuania;551;0;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;552;1;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;552;1;Basic;Analytic Geometry;Analytic Geometry
+776;Portugal;552;1;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;553;0;Basic;Analytic Geometry;Analytic Geometry
+776;Portugal;553;0;Basic;Analytic Geometry;Analytic Geometry
+551;Lithuania;553;0;Basic;Analytic Geometry;Analytic Geometry
+72;Portugal;553;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;554;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;554;0;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;554;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;554;0;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;555;1;Basic;Analytic Geometry;Analytic Geometry
+776;Portugal;555;1;Basic;Analytic Geometry;Analytic Geometry
+776;Portugal;556;0;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;557;1;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;557;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;557;0;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;558;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;558;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;558;1;Basic;Analytic Geometry;Analytic Geometry
+551;Lithuania;558;0;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;558;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;559;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;559;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;559;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;560;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;560;1;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;561;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;561;1;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;561;1;Basic;Analytic Geometry;Analytic Geometry
+551;Lithuania;561;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;562;0;Advanced;Analytic Geometry;Analytic Geometry
+552;Portugal;562;0;Advanced;Analytic Geometry;Analytic Geometry
+776;Portugal;562;0;Advanced;Analytic Geometry;Analytic Geometry
+69;Portugal;563;0;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;563;0;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;564;0;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;564;1;Basic;Analytic Geometry;Analytic Geometry
+776;Portugal;564;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;565;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;565;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;565;0;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;566;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;566;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;566;1;Basic;Analytic Geometry;Analytic Geometry
+72;Portugal;566;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;567;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;567;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;567;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;568;0;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;568;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;568;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;568;1;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;568;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;568;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;569;0;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;569;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;569;1;Basic;Analytic Geometry;Analytic Geometry
+551;Lithuania;569;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;570;1;Advanced;Analytic Geometry;Analytic Geometry
+552;Portugal;570;0;Advanced;Analytic Geometry;Analytic Geometry
+776;Portugal;570;0;Advanced;Analytic Geometry;Analytic Geometry
+576;Ireland;571;0;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;571;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;571;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;571;0;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;571;1;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;572;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;572;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;572;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;573;0;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;573;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;573;1;Basic;Analytic Geometry;Analytic Geometry
+552;Portugal;574;0;Advanced;Analytic Geometry;Analytic Geometry
+552;Portugal;575;1;Advanced;Analytic Geometry;Analytic Geometry
+776;Portugal;575;0;Advanced;Analytic Geometry;Analytic Geometry
+576;Ireland;576;0;Advanced;Analytic Geometry;Analytic Geometry
+552;Portugal;576;0;Advanced;Analytic Geometry;Analytic Geometry
+776;Portugal;576;0;Advanced;Analytic Geometry;Analytic Geometry
+131;Lithuania;586;1;Advanced;Graph Theory;Graph Theory
+411;Portugal;592;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;593;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;594;1;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;595;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;596;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+576;Ireland;597;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;597;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;602;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;603;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;605;1;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+510;Portugal;607;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+510;Portugal;608;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;610;0;Advanced;Linear Algebra;Eigenvalues and Eigenvectors
+202;Lithuania;611;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1486;Portugal;611;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;611;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+405;Portugal;611;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+198;Italy;611;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+202;Lithuania;613;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1486;Portugal;613;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;613;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;613;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+405;Portugal;613;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+142;Portugal;613;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+198;Italy;613;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+202;Lithuania;614;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+197;Portugal;614;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1486;Portugal;614;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;614;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+142;Portugal;614;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+177;Italy;614;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+411;Portugal;617;1;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;618;1;Advanced;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;620;0;Advanced;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;621;0;Advanced;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;622;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;623;0;Advanced;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;624;0;Advanced;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;629;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;630;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+90;Lithuania;633;0;Advanced;Linear Algebra;Matrices and Determinants
+415;Portugal;633;0;Advanced;Linear Algebra;Matrices and Determinants
+415;Portugal;634;0;Basic;Linear Algebra;Matrices and Determinants
+128;Lithuania;635;0;Basic;Linear Algebra;Matrices and Determinants
+1247;Portugal;635;0;Basic;Linear Algebra;Matrices and Determinants
+415;Portugal;636;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;636;0;Basic;Linear Algebra;Matrices and Determinants
+986;Portugal;636;0;Basic;Linear Algebra;Matrices and Determinants
+128;Lithuania;637;1;Basic;Linear Algebra;Matrices and Determinants
+415;Portugal;638;1;Advanced;Linear Algebra;Matrices and Determinants
+510;Portugal;639;0;Basic;Linear Algebra;Matrices and Determinants
+1247;Portugal;639;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;639;1;Basic;Linear Algebra;Matrices and Determinants
+986;Portugal;640;0;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;640;0;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;641;0;Basic;Linear Algebra;Matrices and Determinants
+128;Lithuania;641;0;Basic;Linear Algebra;Matrices and Determinants
+1247;Portugal;641;0;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;642;1;Basic;Linear Algebra;Matrices and Determinants
+128;Lithuania;642;1;Basic;Linear Algebra;Matrices and Determinants
+1247;Portugal;642;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;642;1;Basic;Linear Algebra;Matrices and Determinants
+986;Portugal;643;1;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;644;0;Basic;Linear Algebra;Matrices and Determinants
+128;Lithuania;644;0;Basic;Linear Algebra;Matrices and Determinants
+415;Portugal;644;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;644;0;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;645;1;Basic;Linear Algebra;Matrices and Determinants
+986;Portugal;645;1;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;645;1;Basic;Linear Algebra;Matrices and Determinants
+510;Portugal;646;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;646;1;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;646;1;Basic;Linear Algebra;Matrices and Determinants
+510;Portugal;647;1;Basic;Linear Algebra;Matrices and Determinants
+1247;Portugal;647;1;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;647;1;Basic;Linear Algebra;Matrices and Determinants
+90;Lithuania;648;1;Advanced;Linear Algebra;Matrices and Determinants
+128;Lithuania;650;1;Basic;Linear Algebra;Matrices and Determinants
+415;Portugal;650;1;Basic;Linear Algebra;Matrices and Determinants
+1247;Portugal;650;0;Basic;Linear Algebra;Matrices and Determinants
+411;Portugal;650;1;Basic;Linear Algebra;Matrices and Determinants
+986;Portugal;651;1;Basic;Linear Algebra;Matrices and Determinants
+510;Portugal;652;0;Basic;Linear Algebra;Matrices and Determinants
+511;Portugal;652;1;Basic;Linear Algebra;Matrices and Determinants
+72;Portugal;653;0;Basic;Linear Algebra;Matrices and Determinants
+1049;Lithuania;657;0;Basic;Differentiation;Derivatives
+352;Portugal;657;0;Basic;Differentiation;Derivatives
+177;Italy;657;0;Basic;Differentiation;Derivatives
+178;Italy;657;0;Basic;Differentiation;Derivatives
+1026;Lithuania;658;0;Basic;Differentiation;Derivatives
+1049;Lithuania;658;0;Basic;Differentiation;Derivatives
+1049;Lithuania;661;0;Basic;Differentiation;Derivatives
+165;Portugal;661;0;Basic;Differentiation;Derivatives
+349;Portugal;661;1;Basic;Differentiation;Derivatives
+510;Portugal;665;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+189;Portugal;665;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+177;Italy;665;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+510;Portugal;666;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+197;Portugal;666;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;666;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+142;Portugal;666;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+198;Italy;666;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+202;Lithuania;667;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+510;Portugal;667;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+197;Portugal;667;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+142;Portugal;667;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+177;Italy;667;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+202;Lithuania;668;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+510;Portugal;668;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;668;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+552;Portugal;673;0;Advanced;Real Functions of a single variable;Limits and Continuity
+552;Portugal;677;0;Advanced;Real Functions of a single variable;Domain, Image and Graphics
+1565;Portugal;678;1;Basic;Real Functions of a single variable;Limits and Continuity
+1565;Portugal;679;0;Basic;Real Functions of a single variable;Limits and Continuity
+181;Italy;679;0;Basic;Real Functions of a single variable;Limits and Continuity
+1565;Portugal;680;0;Basic;Real Functions of a single variable;Limits and Continuity
+1564;Portugal;680;0;Basic;Real Functions of a single variable;Limits and Continuity
+1561;Portugal;681;1;Basic;Real Functions of a single variable;Limits and Continuity
+1564;Portugal;682;0;Basic;Real Functions of a single variable;Limits and Continuity
+552;Portugal;683;0;Advanced;Real Functions of a single variable;Domain, Image and Graphics
+1565;Portugal;685;0;Basic;Real Functions of a single variable;Limits and Continuity
+1564;Portugal;685;1;Basic;Real Functions of a single variable;Limits and Continuity
+1565;Portugal;686;0;Basic;Real Functions of a single variable;Limits and Continuity
+1564;Portugal;686;0;Basic;Real Functions of a single variable;Limits and Continuity
+576;Ireland;695;0;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;695;0;Basic;Analytic Geometry;Analytic Geometry
+551;Lithuania;695;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;696;0;Advanced;Analytic Geometry;Analytic Geometry
+26;Portugal;697;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;697;0;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;698;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;699;0;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;699;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;699;1;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;700;0;Basic;Analytic Geometry;Analytic Geometry
+551;Lithuania;700;0;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;700;1;Basic;Analytic Geometry;Analytic Geometry
+69;Portugal;701;1;Basic;Analytic Geometry;Analytic Geometry
+26;Portugal;701;1;Basic;Analytic Geometry;Analytic Geometry
+470;Portugal;701;1;Basic;Analytic Geometry;Analytic Geometry
+551;Lithuania;701;1;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;701;0;Basic;Analytic Geometry;Analytic Geometry
+576;Ireland;702;0;Advanced;Analytic Geometry;Analytic Geometry
+552;Portugal;702;0;Advanced;Analytic Geometry;Analytic Geometry
+69;Portugal;703;1;Basic;Analytic Geometry;Analytic Geometry
+776;Portugal;703;0;Basic;Analytic Geometry;Analytic Geometry
+751;Lithuania;703;1;Basic;Analytic Geometry;Analytic Geometry
+411;Portugal;714;0;Basic;Integration;Integration Techniques
+751;Lithuania;717;0;Basic;Differentiation;Derivatives
+1561;Portugal;718;0;Advanced;Integration;Integration Techniques
+349;Portugal;720;0;Basic;Differentiation;Derivatives
+918;Portugal;720;0;Basic;Differentiation;Derivatives
+178;Italy;720;0;Basic;Differentiation;Derivatives
+1564;Portugal;721;0;Basic;Differentiation;Derivatives
+178;Italy;721;1;Basic;Differentiation;Derivatives
+918;Portugal;722;0;Basic;Integration;Integration Techniques
+1564;Portugal;723;0;Basic;Integration;Integration Techniques
+411;Portugal;723;0;Basic;Integration;Integration Techniques
+411;Portugal;724;0;Advanced;Integration;Integration Techniques
+1026;Lithuania;729;1;Basic;Differentiation;Derivatives
+349;Portugal;729;0;Basic;Differentiation;Derivatives
+189;Portugal;729;1;Basic;Differentiation;Derivatives
+165;Portugal;730;0;Basic;Differentiation;Derivatives
+349;Portugal;730;0;Basic;Differentiation;Derivatives
+177;Italy;730;0;Basic;Differentiation;Derivatives
+1565;Portugal;732;0;Advanced;Integration;Integration Techniques
+1561;Portugal;732;0;Advanced;Integration;Integration Techniques
+411;Portugal;733;0;Basic;Integration;Integration Techniques
+349;Portugal;734;0;Basic;Differentiation;Derivatives
+751;Lithuania;734;0;Basic;Differentiation;Derivatives
+178;Italy;734;0;Basic;Differentiation;Derivatives
+349;Portugal;735;0;Basic;Differentiation;Derivatives
+189;Portugal;735;0;Basic;Differentiation;Derivatives
+177;Italy;735;0;Basic;Differentiation;Derivatives
+1022;Lithuania;736;0;Basic;Optimization;Linear Optimization
+1022;Lithuania;738;0;Basic;Optimization;Linear Optimization
+1525;Portugal;740;0;Advanced;Optimization;Linear Optimization
+1022;Lithuania;743;0;Basic;Optimization;Linear Optimization
+1525;Portugal;743;0;Basic;Optimization;Linear Optimization
+1525;Portugal;744;0;Basic;Optimization;Linear Optimization
+1525;Portugal;746;0;Advanced;Optimization;Linear Optimization
+1525;Portugal;747;0;Advanced;Optimization;Linear Optimization
+1525;Portugal;749;0;Advanced;Optimization;Linear Optimization
+1525;Portugal;750;0;Advanced;Optimization;Linear Optimization
+1525;Portugal;751;0;Advanced;Optimization;Linear Optimization
+349;Portugal;752;1;Basic;Differentiation;Derivatives
+349;Portugal;753;0;Basic;Differentiation;Derivatives
+1564;Portugal;753;0;Basic;Differentiation;Derivatives
+178;Italy;753;0;Basic;Differentiation;Derivatives
+1525;Portugal;760;0;Basic;Probability ;Probability 
+1525;Portugal;761;0;Basic;Probability ;Probability 
+1525;Portugal;763;0;Advanced;Probability ;Probability 
+26;Portugal;765;1;Basic;Probability ;Probability 
+1525;Portugal;766;0;Basic;Probability ;Probability 
+1525;Portugal;767;0;Basic;Probability ;Probability 
+1525;Portugal;769;0;Advanced;Probability ;Probability 
+1525;Portugal;770;0;Advanced;Probability ;Probability 
+1525;Portugal;774;0;Advanced;Probability ;Probability 
+1525;Portugal;775;0;Advanced;Probability ;Probability 
+956;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+972;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;776;1;Basic;Linear Algebra;Linear Transformations
+1157;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+1334;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+1140;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+1077;Portugal;776;0;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;776;0;Basic;Linear Algebra;Linear Transformations
+1324;Italy;776;1;Basic;Linear Algebra;Linear Transformations
+840;Italy;776;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;777;0;Advanced;Linear Algebra;Linear Transformations
+1146;Portugal;777;0;Advanced;Linear Algebra;Linear Transformations
+1126;Portugal;777;1;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;777;1;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;777;1;Advanced;Linear Algebra;Linear Transformations
+1291;Italy;777;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;777;1;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;778;0;Advanced;Linear Algebra;Linear Transformations
+1338;Portugal;778;1;Advanced;Linear Algebra;Linear Transformations
+1150;Portugal;778;0;Advanced;Linear Algebra;Linear Transformations
+1146;Portugal;778;0;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;778;1;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;778;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;778;1;Advanced;Linear Algebra;Linear Transformations
+1291;Italy;778;0;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;778;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;778;1;Advanced;Linear Algebra;Linear Transformations
+1091;Lithuania;779;0;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;779;0;Advanced;Linear Algebra;Linear Transformations
+986;Portugal;779;1;Advanced;Linear Algebra;Linear Transformations
+1353;Portugal;779;1;Advanced;Linear Algebra;Linear Transformations
+1334;Portugal;779;0;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;779;0;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;779;1;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;779;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;779;1;Advanced;Linear Algebra;Linear Transformations
+1143;Portugal;780;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;780;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;780;0;Basic;Linear Algebra;Linear Transformations
+1182;Portugal;780;0;Basic;Linear Algebra;Linear Transformations
+1253;Portugal;780;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;780;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;780;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;780;0;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;780;1;Basic;Linear Algebra;Linear Transformations
+958;Lithuania;780;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;780;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;781;0;Advanced;Linear Algebra;Linear Transformations
+1126;Portugal;781;1;Advanced;Linear Algebra;Linear Transformations
+1420;Portugal;781;1;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;781;1;Advanced;Linear Algebra;Linear Transformations
+1427;Portugal;781;0;Advanced;Linear Algebra;Linear Transformations
+1353;Portugal;781;1;Advanced;Linear Algebra;Linear Transformations
+1334;Portugal;781;0;Advanced;Linear Algebra;Linear Transformations
+1428;Portugal;781;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;781;1;Advanced;Linear Algebra;Linear Transformations
+1291;Italy;781;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;781;1;Advanced;Linear Algebra;Linear Transformations
+1339;Portugal;782;1;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;782;0;Advanced;Linear Algebra;Linear Transformations
+1338;Portugal;782;0;Advanced;Linear Algebra;Linear Transformations
+1150;Portugal;782;0;Advanced;Linear Algebra;Linear Transformations
+1277;Portugal;782;1;Advanced;Linear Algebra;Linear Transformations
+1126;Portugal;782;1;Advanced;Linear Algebra;Linear Transformations
+1334;Portugal;782;0;Advanced;Linear Algebra;Linear Transformations
+1428;Portugal;782;1;Advanced;Linear Algebra;Linear Transformations
+955;Lithuania;782;0;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;782;1;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;782;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;782;0;Advanced;Linear Algebra;Linear Transformations
+1339;Portugal;783;1;Advanced;Linear Algebra;Linear Transformations
+972;Portugal;783;0;Advanced;Linear Algebra;Linear Transformations
+1338;Portugal;783;0;Advanced;Linear Algebra;Linear Transformations
+986;Portugal;783;1;Advanced;Linear Algebra;Linear Transformations
+1420;Portugal;783;1;Advanced;Linear Algebra;Linear Transformations
+1411;Portugal;783;1;Advanced;Linear Algebra;Linear Transformations
+1308;Italy;783;1;Advanced;Linear Algebra;Linear Transformations
+1286;Italy;783;1;Advanced;Linear Algebra;Linear Transformations
+72;Portugal;783;0;Advanced;Linear Algebra;Linear Transformations
+840;Italy;783;0;Advanced;Linear Algebra;Linear Transformations
+956;Portugal;784;0;Basic;Linear Algebra;Linear Transformations
+972;Portugal;784;0;Basic;Linear Algebra;Linear Transformations
+1158;Portugal;784;1;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;784;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;784;0;Basic;Linear Algebra;Linear Transformations
+1277;Portugal;784;1;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;784;1;Basic;Linear Algebra;Linear Transformations
+1281;Portugal;784;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;784;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;784;1;Basic;Linear Algebra;Linear Transformations
+972;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+1194;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+1158;Portugal;785;1;Basic;Linear Algebra;Linear Transformations
+1157;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+1219;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+1109;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+1173;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+1140;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+1146;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+966;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+1130;Portugal;785;0;Basic;Linear Algebra;Linear Transformations
+899;Lithuania;785;0;Basic;Linear Algebra;Linear Transformations
+955;Lithuania;785;0;Basic;Linear Algebra;Linear Transformations
+840;Italy;785;1;Basic;Linear Algebra;Linear Transformations
+510;Portugal;786;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;786;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+142;Portugal;786;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+510;Portugal;787;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1486;Portugal;787;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;787;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+177;Italy;787;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1486;Portugal;788;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+405;Portugal;788;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+142;Portugal;788;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+510;Portugal;789;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;789;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;789;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;793;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;794;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;794;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+510;Portugal;795;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1486;Portugal;795;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;795;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+405;Portugal;795;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+177;Italy;795;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1486;Portugal;796;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+1274;Portugal;796;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+202;Lithuania;798;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+197;Portugal;798;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+189;Portugal;798;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+511;Portugal;798;0;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+177;Italy;798;1;Basic;Fundamental Mathematics;Algebraic expressions, Equations, and Inequalities
+165;Portugal;828;0;Basic;Differential Equations;Differential Equations
+26;Portugal;828;1;Basic;Differential Equations;Differential Equations
+26;Portugal;831;1;Basic;Differential Equations;Differential Equations
+1561;Portugal;833;0;Advanced;Differential Equations;Differential Equations
+26;Portugal;834;1;Basic;Differential Equations;Differential Equations
+552;Portugal;835;0;Basic;Differential Equations;Differential Equations
+26;Portugal;835;1;Basic;Differential Equations;Differential Equations
+552;Portugal;837;1;Basic;Differential Equations;Differential Equations
+26;Portugal;837;1;Basic;Differential Equations;Differential Equations
+411;Portugal;849;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+510;Portugal;850;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;851;0;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;852;1;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+510;Portugal;853;1;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;853;1;Basic;Linear Algebra;Eigenvalues and Eigenvectors
+411;Portugal;856;1;Advanced;Linear Algebra;Eigenvalues and Eigenvectors
+1525;Portugal;859;0;Basic;Optimization;Nonlinear Optimization
+1525;Portugal;860;0;Basic;Optimization;Nonlinear Optimization
+1022;Lithuania;861;0;Basic;Optimization;Nonlinear Optimization
+1525;Portugal;861;0;Basic;Optimization;Nonlinear Optimization
+552;Portugal;868;1;Basic;Differential Equations;Differential Equations
+552;Portugal;869;0;Basic;Differential Equations;Differential Equations
+26;Portugal;869;0;Basic;Differential Equations;Differential Equations
+552;Portugal;870;0;Basic;Differential Equations;Differential Equations
+1043;Lithuania;873;0;Basic;Differentiation;Partial Differentiation
+1075;Portugal;873;0;Basic;Differentiation;Partial Differentiation
+1024;Lithuania;874;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;874;0;Basic;Differentiation;Partial Differentiation
+1034;Lithuania;875;0;Basic;Differentiation;Partial Differentiation
+1028;Lithuania;875;0;Basic;Differentiation;Partial Differentiation
+1032;Lithuania;875;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;875;0;Basic;Differentiation;Partial Differentiation
+165;Portugal;875;0;Basic;Differentiation;Partial Differentiation
+1039;Lithuania;876;0;Basic;Differentiation;Partial Differentiation
+1056;Lithuania;876;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;876;0;Basic;Differentiation;Partial Differentiation
+918;Portugal;876;0;Basic;Differentiation;Partial Differentiation
+1056;Lithuania;877;0;Basic;Differentiation;Partial Differentiation
+1024;Lithuania;877;0;Basic;Differentiation;Partial Differentiation
+1032;Lithuania;877;1;Basic;Differentiation;Partial Differentiation
+1050;Lithuania;878;0;Basic;Differentiation;Partial Differentiation
+1026;Lithuania;878;0;Basic;Differentiation;Partial Differentiation
+1034;Lithuania;878;0;Basic;Differentiation;Partial Differentiation
+165;Portugal;878;0;Basic;Differentiation;Partial Differentiation
+1075;Portugal;878;0;Basic;Differentiation;Partial Differentiation
+26;Portugal;878;1;Basic;Differentiation;Partial Differentiation
+1039;Lithuania;879;0;Basic;Differentiation;Partial Differentiation
+1043;Lithuania;879;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;879;0;Basic;Differentiation;Partial Differentiation
+1029;Lithuania;883;0;Basic;Differentiation;Partial Differentiation
+1056;Lithuania;883;0;Basic;Differentiation;Partial Differentiation
+1034;Lithuania;883;0;Basic;Differentiation;Partial Differentiation
+1039;Lithuania;885;0;Basic;Differentiation;Partial Differentiation
+1056;Lithuania;885;1;Basic;Differentiation;Partial Differentiation
+1032;Lithuania;885;0;Basic;Differentiation;Partial Differentiation
+1047;Lithuania;885;0;Basic;Differentiation;Partial Differentiation
+1075;Portugal;885;0;Basic;Differentiation;Partial Differentiation
+751;Lithuania;885;0;Basic;Differentiation;Partial Differentiation
+26;Portugal;888;0;Basic;Differential Equations;Differential Equations
+26;Portugal;890;1;Basic;Differential Equations;Differential Equations
+552;Portugal;891;0;Basic;Differential Equations;Differential Equations
+552;Portugal;892;1;Basic;Differential Equations;Differential Equations
+26;Portugal;892;0;Basic;Differential Equations;Differential Equations
+26;Portugal;903;1;Basic;Differential Equations;Differential Equations
+552;Portugal;904;0;Basic;Differential Equations;Differential Equations
+1565;Portugal;905;1;Advanced;Differential Equations;Differential Equations
+26;Portugal;906;0;Basic;Differential Equations;Differential Equations
+1050;Lithuania;908;0;Basic;Differentiation;Partial Differentiation
+1039;Lithuania;908;0;Basic;Differentiation;Partial Differentiation
+1047;Lithuania;908;0;Basic;Differentiation;Partial Differentiation
+1045;Lithuania;908;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;908;0;Basic;Differentiation;Partial Differentiation
+1075;Portugal;908;1;Basic;Differentiation;Partial Differentiation
+918;Portugal;908;0;Basic;Differentiation;Partial Differentiation
+1034;Lithuania;912;0;Basic;Differentiation;Partial Differentiation
+1028;Lithuania;912;0;Basic;Differentiation;Partial Differentiation
+1045;Lithuania;912;0;Basic;Differentiation;Partial Differentiation
+1043;Lithuania;912;0;Basic;Differentiation;Partial Differentiation
+511;Portugal;917;1;Basic;Linear Algebra;Linear Systems
+750;Portugal;918;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1564;Portugal;918;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+750;Portugal;919;1;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1564;Portugal;919;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+181;Italy;919;1;Basic;Real Functions of a single variable;Domain, Image and Graphics
+750;Portugal;920;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1564;Portugal;920;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+181;Italy;920;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+750;Portugal;921;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1564;Portugal;921;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+750;Portugal;922;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1564;Portugal;922;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1564;Portugal;923;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+750;Portugal;925;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+1564;Portugal;925;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+181;Italy;925;0;Basic;Real Functions of a single variable;Domain, Image and Graphics
+552;Portugal;927;0;Advanced;Real Functions of a single variable;Domain, Image and Graphics
+552;Portugal;928;0;Advanced;Real Functions of a single variable;Domain, Image and Graphics
+1247;Portugal;948;0;Basic;Linear Algebra;Linear Systems
+26;Portugal;948;1;Basic;Linear Algebra;Linear Systems
+510;Portugal;949;0;Basic;Linear Algebra;Linear Systems
+511;Portugal;949;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;950;1;Basic;Linear Algebra;Linear Systems
+576;Ireland;951;1;Basic;Linear Algebra;Linear Systems
+90;Lithuania;951;0;Basic;Linear Algebra;Linear Systems
+26;Portugal;951;1;Basic;Linear Algebra;Linear Systems
+510;Portugal;952;0;Basic;Linear Algebra;Linear Systems
+26;Portugal;952;1;Basic;Linear Algebra;Linear Systems
+511;Portugal;952;1;Basic;Linear Algebra;Linear Systems
+1022;Lithuania;958;0;Basic;Optimization;Linear Optimization
+1022;Lithuania;959;0;Basic;Optimization;Linear Optimization
+1022;Lithuania;965;0;Basic;Optimization;Linear Optimization
+1565;Portugal;981;0;Basic;Real Functions of a single variable;Limits and Continuity
+1564;Portugal;981;0;Basic;Real Functions of a single variable;Limits and Continuity
+181;Italy;981;0;Basic;Real Functions of a single variable;Limits and Continuity
+1564;Portugal;982;1;Basic;Real Functions of a single variable;Limits and Continuity
+552;Portugal;983;0;Advanced;Real Functions of a single variable;Limits and Continuity
+1039;Lithuania;998;0;Basic;Differentiation;Partial Differentiation
+1029;Lithuania;998;0;Basic;Differentiation;Partial Differentiation
+1037;Lithuania;998;0;Basic;Differentiation;Partial Differentiation
+1028;Lithuania;998;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;998;0;Basic;Differentiation;Partial Differentiation
+1056;Lithuania;999;0;Basic;Differentiation;Partial Differentiation
+1024;Lithuania;999;0;Basic;Differentiation;Partial Differentiation
+1028;Lithuania;999;0;Basic;Differentiation;Partial Differentiation
+1047;Lithuania;999;0;Basic;Differentiation;Partial Differentiation
+1043;Lithuania;999;0;Basic;Differentiation;Partial Differentiation
+918;Portugal;999;1;Basic;Differentiation;Partial Differentiation
+751;Lithuania;999;0;Basic;Differentiation;Partial Differentiation
+1032;Lithuania;1000;0;Basic;Differentiation;Partial Differentiation
+1045;Lithuania;1000;0;Basic;Differentiation;Partial Differentiation
+918;Portugal;1000;0;Basic;Differentiation;Partial Differentiation
+1029;Lithuania;1001;0;Basic;Differentiation;Partial Differentiation
+1037;Lithuania;1001;0;Basic;Differentiation;Partial Differentiation
+1047;Lithuania;1001;0;Basic;Differentiation;Partial Differentiation
+1049;Lithuania;1002;0;Basic;Differentiation;Partial Differentiation
+1075;Portugal;1002;1;Basic;Differentiation;Partial Differentiation
+918;Portugal;1002;0;Basic;Differentiation;Partial Differentiation
+1022;Lithuania;1004;0;Basic;Optimization;Nonlinear Optimization
+1022;Lithuania;1005;0;Basic;Optimization;Nonlinear Optimization
+1525;Portugal;1010;0;Basic;Optimization;Nonlinear Optimization
+1543;Portugal;1086;0;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1086;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1086;1;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1087;0;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1087;1;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1088;0;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1088;0;Basic;Numerical Methods;Numerical Methods
+974;Portugal;1088;1;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1089;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1089;1;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1090;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1090;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1091;0;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1091;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1092;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1092;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1093;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1093;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1094;0;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1094;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1094;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1095;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1096;0;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1097;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1098;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1098;0;Basic;Numerical Methods;Numerical Methods
+974;Portugal;1099;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1099;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1100;1;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1101;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1101;1;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1102;0;Basic;Numerical Methods;Numerical Methods
+974;Portugal;1102;1;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1103;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1104;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1104;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1105;1;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1106;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1107;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1108;1;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1109;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1110;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1111;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1113;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1113;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1115;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1115;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1116;0;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1116;0;Basic;Numerical Methods;Numerical Methods
+1538;Portugal;1117;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1118;0;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1119;0;Basic;Numerical Methods;Numerical Methods
+955;Lithuania;1119;1;Basic;Numerical Methods;Numerical Methods
+1543;Portugal;1120;0;Basic;Numerical Methods;Numerical Methods
+26;Portugal;1128;1;Basic;Set Theory;Set Theory
+26;Portugal;1144;1;Basic;Set Theory;Set Theory
+26;Portugal;1146;1;Basic;Set Theory;Set Theory
+26;Portugal;1149;0;Basic;Set Theory;Set Theory
+26;Portugal;1151;0;Basic;Set Theory;Set Theory
+26;Portugal;1157;1;Basic;Set Theory;Set Theory
+26;Portugal;1162;1;Basic;Set Theory;Set Theory
+955;Lithuania;1216;1;Basic;Numerical Methods;Numerical Methods
+974;Portugal;1251;1;Basic;Numerical Methods;Numerical Methods
